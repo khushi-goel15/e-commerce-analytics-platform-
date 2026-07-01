@@ -1,0 +1,3570 @@
+order_id,product_id,return_reason
+3,417,Defective product
+5,365,Size/fit issue
+6,76,Not as described
+12,305,Size/fit issue
+21,277,Defective product
+26,374,Not as described
+30,468,Size/fit issue
+33,233,Better price elsewhere
+40,361,Better price elsewhere
+41,354,Defective product
+44,99,Better price elsewhere
+49,69,Changed mind
+56,346,Size/fit issue
+63,462,Size/fit issue
+65,166,Not as described
+65,373,Size/fit issue
+65,232,Better price elsewhere
+67,33,Better price elsewhere
+68,270,Damaged in transit
+69,184,Size/fit issue
+72,88,Defective product
+73,178,Better price elsewhere
+78,193,Better price elsewhere
+78,302,Delivered late
+80,73,Delivered late
+83,11,Wrong item delivered
+84,172,Size/fit issue
+92,293,Size/fit issue
+97,72,Damaged in transit
+97,429,Wrong item delivered
+101,490,Not as described
+102,5,Changed mind
+102,377,Better price elsewhere
+102,194,Changed mind
+103,125,Not as described
+103,413,Size/fit issue
+106,249,Size/fit issue
+107,138,Size/fit issue
+110,198,Defective product
+116,288,Delivered late
+119,353,Changed mind
+122,238,Not as described
+129,99,Size/fit issue
+129,419,Not as described
+130,329,Better price elsewhere
+132,2,Defective product
+134,234,Size/fit issue
+134,225,Wrong item delivered
+136,30,Not as described
+137,383,Size/fit issue
+138,38,Wrong item delivered
+144,297,Defective product
+149,314,Size/fit issue
+151,72,Size/fit issue
+157,110,Size/fit issue
+157,375,Better price elsewhere
+162,5,Wrong item delivered
+162,454,Changed mind
+163,343,Better price elsewhere
+165,175,Size/fit issue
+165,406,Size/fit issue
+166,381,Better price elsewhere
+168,360,Not as described
+168,21,Not as described
+174,332,Not as described
+181,126,Size/fit issue
+187,367,Defective product
+192,472,Size/fit issue
+197,381,Defective product
+203,102,Better price elsewhere
+204,288,Better price elsewhere
+205,332,Defective product
+211,204,Not as described
+211,16,Delivered late
+212,357,Not as described
+213,471,Not as described
+219,432,Better price elsewhere
+229,282,Damaged in transit
+231,327,Damaged in transit
+232,96,Better price elsewhere
+234,345,Better price elsewhere
+240,126,Changed mind
+248,178,Delivered late
+250,55,Not as described
+253,198,Not as described
+254,244,Not as described
+256,382,Better price elsewhere
+257,173,Size/fit issue
+257,424,Defective product
+258,354,Size/fit issue
+269,471,Not as described
+270,326,Size/fit issue
+272,33,Better price elsewhere
+277,214,Size/fit issue
+280,444,Changed mind
+290,315,Changed mind
+291,279,Size/fit issue
+293,42,Size/fit issue
+296,167,Delivered late
+302,113,Changed mind
+304,113,Not as described
+306,96,Delivered late
+307,8,Changed mind
+315,252,Wrong item delivered
+323,406,Size/fit issue
+327,477,Changed mind
+333,174,Delivered late
+336,143,Changed mind
+336,149,Size/fit issue
+338,152,Defective product
+343,286,Better price elsewhere
+348,247,Delivered late
+349,375,Better price elsewhere
+350,109,Better price elsewhere
+355,478,Changed mind
+355,393,Better price elsewhere
+363,330,Better price elsewhere
+364,335,Delivered late
+365,343,Delivered late
+371,116,Changed mind
+375,369,Defective product
+375,117,Size/fit issue
+376,274,Damaged in transit
+377,324,Defective product
+382,329,Better price elsewhere
+382,58,Not as described
+384,76,Not as described
+396,410,Wrong item delivered
+406,79,Better price elsewhere
+410,328,Size/fit issue
+417,238,Not as described
+420,181,Wrong item delivered
+422,12,Better price elsewhere
+424,328,Size/fit issue
+428,289,Not as described
+429,323,Size/fit issue
+430,184,Damaged in transit
+435,481,Changed mind
+438,89,Changed mind
+440,301,Delivered late
+442,391,Not as described
+442,150,Not as described
+444,448,Not as described
+447,7,Better price elsewhere
+448,155,Size/fit issue
+453,211,Better price elsewhere
+454,367,Better price elsewhere
+462,35,Damaged in transit
+464,251,Defective product
+467,86,Better price elsewhere
+468,369,Better price elsewhere
+469,191,Defective product
+471,208,Wrong item delivered
+473,78,Defective product
+473,81,Better price elsewhere
+475,490,Not as described
+477,282,Size/fit issue
+482,290,Changed mind
+483,217,Size/fit issue
+490,488,Size/fit issue
+495,91,Size/fit issue
+503,312,Changed mind
+505,139,Defective product
+505,315,Changed mind
+507,27,Defective product
+522,164,Changed mind
+527,421,Size/fit issue
+532,233,Defective product
+538,414,Changed mind
+542,80,Better price elsewhere
+543,283,Size/fit issue
+548,478,Damaged in transit
+555,466,Wrong item delivered
+556,76,Not as described
+557,41,Defective product
+557,198,Defective product
+564,341,Changed mind
+566,256,Size/fit issue
+571,78,Better price elsewhere
+573,222,Damaged in transit
+578,164,Defective product
+579,383,Size/fit issue
+580,277,Better price elsewhere
+583,70,Defective product
+586,425,Changed mind
+595,496,Better price elsewhere
+596,362,Better price elsewhere
+598,22,Delivered late
+604,339,Size/fit issue
+605,141,Not as described
+610,364,Defective product
+611,380,Delivered late
+614,432,Delivered late
+614,10,Not as described
+617,421,Size/fit issue
+623,294,Size/fit issue
+626,53,Better price elsewhere
+631,411,Delivered late
+639,416,Changed mind
+640,162,Size/fit issue
+641,49,Defective product
+643,364,Defective product
+644,276,Damaged in transit
+645,88,Not as described
+645,365,Size/fit issue
+645,373,Size/fit issue
+646,401,Wrong item delivered
+649,256,Delivered late
+650,222,Delivered late
+651,439,Delivered late
+654,267,Delivered late
+655,53,Better price elsewhere
+656,209,Not as described
+658,33,Delivered late
+659,109,Not as described
+659,354,Damaged in transit
+662,442,Better price elsewhere
+664,246,Better price elsewhere
+670,431,Better price elsewhere
+671,408,Delivered late
+672,276,Changed mind
+681,300,Changed mind
+687,114,Size/fit issue
+689,87,Defective product
+691,199,Better price elsewhere
+694,203,Wrong item delivered
+694,102,Changed mind
+702,223,Not as described
+704,27,Not as described
+708,345,Better price elsewhere
+711,111,Delivered late
+711,202,Size/fit issue
+711,301,Size/fit issue
+714,263,Size/fit issue
+723,472,Changed mind
+728,379,Size/fit issue
+728,52,Changed mind
+731,50,Better price elsewhere
+740,443,Size/fit issue
+742,416,Better price elsewhere
+744,332,Delivered late
+745,16,Size/fit issue
+750,431,Better price elsewhere
+751,375,Not as described
+756,120,Wrong item delivered
+757,285,Not as described
+758,209,Size/fit issue
+759,426,Better price elsewhere
+765,392,Size/fit issue
+765,221,Size/fit issue
+769,119,Defective product
+773,298,Size/fit issue
+778,244,Size/fit issue
+781,176,Changed mind
+785,174,Not as described
+786,73,Changed mind
+789,44,Better price elsewhere
+792,60,Size/fit issue
+792,45,Not as described
+795,19,Not as described
+795,87,Not as described
+796,185,Size/fit issue
+798,353,Not as described
+804,74,Defective product
+815,459,Changed mind
+817,330,Delivered late
+818,249,Size/fit issue
+820,209,Size/fit issue
+823,43,Delivered late
+837,190,Size/fit issue
+839,284,Not as described
+840,310,Defective product
+849,143,Defective product
+855,379,Defective product
+856,4,Wrong item delivered
+860,307,Defective product
+866,293,Wrong item delivered
+869,31,Better price elsewhere
+871,181,Better price elsewhere
+879,440,Defective product
+880,151,Size/fit issue
+882,222,Changed mind
+884,105,Better price elsewhere
+886,329,Size/fit issue
+887,348,Defective product
+888,265,Size/fit issue
+892,302,Changed mind
+892,392,Defective product
+900,367,Defective product
+902,493,Wrong item delivered
+903,391,Not as described
+903,498,Size/fit issue
+905,499,Size/fit issue
+907,491,Wrong item delivered
+907,115,Changed mind
+912,88,Not as described
+917,393,Size/fit issue
+931,462,Not as described
+933,5,Size/fit issue
+934,420,Not as described
+942,56,Better price elsewhere
+943,105,Defective product
+952,381,Changed mind
+957,412,Damaged in transit
+958,171,Wrong item delivered
+959,482,Size/fit issue
+960,218,Better price elsewhere
+961,352,Size/fit issue
+967,53,Not as described
+968,430,Defective product
+968,333,Delivered late
+969,386,Better price elsewhere
+971,475,Size/fit issue
+973,457,Size/fit issue
+976,172,Size/fit issue
+980,166,Better price elsewhere
+981,214,Wrong item delivered
+985,330,Not as described
+989,343,Size/fit issue
+989,263,Size/fit issue
+992,460,Size/fit issue
+993,377,Changed mind
+1002,479,Not as described
+1005,398,Defective product
+1006,193,Better price elsewhere
+1008,321,Size/fit issue
+1008,232,Defective product
+1010,186,Delivered late
+1011,467,Changed mind
+1012,186,Wrong item delivered
+1012,432,Not as described
+1022,221,Size/fit issue
+1026,336,Wrong item delivered
+1027,99,Size/fit issue
+1035,10,Not as described
+1035,199,Better price elsewhere
+1042,487,Wrong item delivered
+1049,468,Size/fit issue
+1049,490,Size/fit issue
+1050,447,Size/fit issue
+1051,318,Damaged in transit
+1055,257,Wrong item delivered
+1060,88,Not as described
+1063,50,Not as described
+1065,33,Better price elsewhere
+1076,444,Size/fit issue
+1084,120,Delivered late
+1087,412,Size/fit issue
+1094,73,Defective product
+1095,253,Changed mind
+1101,354,Changed mind
+1102,237,Defective product
+1113,384,Changed mind
+1114,467,Better price elsewhere
+1123,102,Damaged in transit
+1125,291,Delivered late
+1129,39,Delivered late
+1130,49,Better price elsewhere
+1132,195,Changed mind
+1140,129,Size/fit issue
+1150,18,Delivered late
+1153,173,Defective product
+1165,355,Not as described
+1166,87,Better price elsewhere
+1183,158,Size/fit issue
+1185,312,Wrong item delivered
+1186,239,Defective product
+1187,374,Better price elsewhere
+1191,33,Better price elsewhere
+1196,431,Defective product
+1196,185,Wrong item delivered
+1198,385,Size/fit issue
+1200,211,Wrong item delivered
+1200,12,Not as described
+1200,90,Wrong item delivered
+1202,221,Changed mind
+1205,319,Size/fit issue
+1207,299,Damaged in transit
+1212,223,Defective product
+1215,151,Size/fit issue
+1217,129,Defective product
+1218,419,Damaged in transit
+1219,75,Not as described
+1219,357,Defective product
+1224,193,Size/fit issue
+1227,69,Changed mind
+1228,299,Size/fit issue
+1230,423,Size/fit issue
+1237,128,Size/fit issue
+1241,488,Size/fit issue
+1244,76,Defective product
+1245,340,Not as described
+1246,247,Size/fit issue
+1247,286,Defective product
+1248,17,Not as described
+1249,87,Better price elsewhere
+1251,375,Better price elsewhere
+1254,296,Damaged in transit
+1255,2,Delivered late
+1256,453,Delivered late
+1264,163,Not as described
+1271,372,Size/fit issue
+1287,318,Better price elsewhere
+1296,198,Not as described
+1303,101,Not as described
+1306,161,Delivered late
+1307,122,Better price elsewhere
+1319,215,Not as described
+1322,174,Size/fit issue
+1323,227,Damaged in transit
+1323,160,Size/fit issue
+1326,132,Better price elsewhere
+1328,393,Not as described
+1330,44,Better price elsewhere
+1333,99,Size/fit issue
+1334,64,Size/fit issue
+1340,277,Size/fit issue
+1346,429,Wrong item delivered
+1351,12,Not as described
+1351,270,Size/fit issue
+1358,274,Wrong item delivered
+1363,185,Size/fit issue
+1363,210,Size/fit issue
+1366,390,Defective product
+1369,495,Better price elsewhere
+1375,88,Not as described
+1393,250,Wrong item delivered
+1402,92,Size/fit issue
+1409,357,Wrong item delivered
+1409,229,Size/fit issue
+1409,383,Changed mind
+1413,126,Better price elsewhere
+1413,294,Size/fit issue
+1415,233,Defective product
+1417,35,Size/fit issue
+1423,3,Damaged in transit
+1424,246,Size/fit issue
+1433,440,Better price elsewhere
+1437,437,Size/fit issue
+1440,86,Defective product
+1444,456,Wrong item delivered
+1449,9,Size/fit issue
+1457,36,Damaged in transit
+1466,145,Defective product
+1467,132,Damaged in transit
+1467,301,Size/fit issue
+1468,103,Changed mind
+1469,134,Changed mind
+1477,31,Size/fit issue
+1477,401,Better price elsewhere
+1479,498,Not as described
+1482,486,Changed mind
+1500,394,Better price elsewhere
+1501,158,Size/fit issue
+1503,415,Damaged in transit
+1504,462,Better price elsewhere
+1514,288,Better price elsewhere
+1515,306,Damaged in transit
+1520,278,Size/fit issue
+1525,456,Delivered late
+1529,377,Not as described
+1538,158,Changed mind
+1543,487,Better price elsewhere
+1544,99,Size/fit issue
+1544,22,Not as described
+1554,235,Not as described
+1564,329,Size/fit issue
+1565,429,Not as described
+1569,145,Better price elsewhere
+1572,431,Defective product
+1575,301,Size/fit issue
+1581,290,Wrong item delivered
+1583,444,Not as described
+1586,298,Not as described
+1593,13,Changed mind
+1603,10,Changed mind
+1604,197,Better price elsewhere
+1605,127,Delivered late
+1607,405,Size/fit issue
+1608,474,Not as described
+1608,369,Defective product
+1611,461,Size/fit issue
+1616,360,Better price elsewhere
+1617,12,Not as described
+1620,44,Delivered late
+1623,392,Size/fit issue
+1631,408,Size/fit issue
+1634,439,Defective product
+1638,263,Size/fit issue
+1640,424,Better price elsewhere
+1644,113,Better price elsewhere
+1646,355,Defective product
+1648,463,Better price elsewhere
+1648,306,Better price elsewhere
+1651,306,Wrong item delivered
+1655,255,Not as described
+1656,308,Damaged in transit
+1664,10,Wrong item delivered
+1665,49,Better price elsewhere
+1666,24,Size/fit issue
+1674,79,Damaged in transit
+1677,411,Damaged in transit
+1677,39,Size/fit issue
+1678,459,Size/fit issue
+1681,158,Damaged in transit
+1681,88,Not as described
+1682,113,Size/fit issue
+1687,90,Better price elsewhere
+1688,480,Wrong item delivered
+1690,234,Delivered late
+1691,206,Defective product
+1697,473,Delivered late
+1700,225,Size/fit issue
+1701,110,Damaged in transit
+1702,98,Better price elsewhere
+1706,458,Not as described
+1712,126,Changed mind
+1717,299,Size/fit issue
+1721,330,Defective product
+1721,50,Delivered late
+1722,239,Size/fit issue
+1723,38,Damaged in transit
+1723,71,Size/fit issue
+1724,388,Changed mind
+1725,203,Changed mind
+1726,158,Size/fit issue
+1728,233,Not as described
+1730,408,Changed mind
+1736,8,Defective product
+1745,19,Better price elsewhere
+1748,253,Better price elsewhere
+1752,330,Delivered late
+1756,201,Changed mind
+1757,51,Defective product
+1762,412,Size/fit issue
+1764,178,Defective product
+1766,354,Changed mind
+1766,491,Defective product
+1767,134,Size/fit issue
+1773,13,Delivered late
+1776,172,Changed mind
+1783,197,Size/fit issue
+1794,393,Better price elsewhere
+1800,1,Wrong item delivered
+1800,487,Size/fit issue
+1800,38,Size/fit issue
+1801,31,Defective product
+1806,304,Changed mind
+1817,20,Better price elsewhere
+1818,457,Wrong item delivered
+1823,361,Defective product
+1829,294,Size/fit issue
+1830,463,Not as described
+1836,33,Not as described
+1837,82,Delivered late
+1837,167,Defective product
+1852,377,Not as described
+1855,496,Better price elsewhere
+1857,196,Better price elsewhere
+1862,63,Changed mind
+1863,276,Better price elsewhere
+1864,306,Size/fit issue
+1869,494,Damaged in transit
+1870,5,Size/fit issue
+1871,304,Not as described
+1874,219,Damaged in transit
+1877,219,Not as described
+1880,27,Not as described
+1882,195,Changed mind
+1890,18,Defective product
+1894,17,Wrong item delivered
+1895,295,Better price elsewhere
+1897,274,Defective product
+1898,1,Defective product
+1901,293,Size/fit issue
+1904,113,Delivered late
+1913,421,Better price elsewhere
+1914,440,Changed mind
+1917,270,Size/fit issue
+1920,321,Size/fit issue
+1921,105,Better price elsewhere
+1921,138,Size/fit issue
+1928,26,Size/fit issue
+1930,81,Better price elsewhere
+1933,278,Not as described
+1936,243,Changed mind
+1938,488,Size/fit issue
+1939,369,Wrong item delivered
+1940,20,Not as described
+1948,137,Changed mind
+1949,280,Size/fit issue
+1950,20,Size/fit issue
+1953,274,Better price elsewhere
+1954,216,Size/fit issue
+1955,25,Size/fit issue
+1956,229,Defective product
+1957,456,Wrong item delivered
+1961,287,Not as described
+1962,44,Defective product
+1965,468,Size/fit issue
+1968,127,Damaged in transit
+1968,79,Size/fit issue
+1979,239,Delivered late
+1980,226,Size/fit issue
+1985,388,Better price elsewhere
+1997,346,Changed mind
+1997,415,Delivered late
+2013,404,Defective product
+2014,92,Size/fit issue
+2014,194,Better price elsewhere
+2017,252,Better price elsewhere
+2019,339,Better price elsewhere
+2021,432,Better price elsewhere
+2022,88,Not as described
+2024,372,Size/fit issue
+2028,235,Defective product
+2028,137,Changed mind
+2029,270,Not as described
+2034,21,Better price elsewhere
+2034,405,Defective product
+2038,388,Not as described
+2042,276,Changed mind
+2049,45,Defective product
+2062,234,Better price elsewhere
+2078,3,Defective product
+2084,53,Better price elsewhere
+2085,333,Not as described
+2087,423,Better price elsewhere
+2087,195,Delivered late
+2089,208,Size/fit issue
+2090,352,Changed mind
+2092,336,Size/fit issue
+2093,55,Delivered late
+2098,417,Defective product
+2098,419,Changed mind
+2116,367,Delivered late
+2118,195,Changed mind
+2119,329,Size/fit issue
+2120,286,Better price elsewhere
+2121,213,Size/fit issue
+2122,53,Not as described
+2132,243,Not as described
+2141,318,Not as described
+2148,168,Better price elsewhere
+2151,145,Delivered late
+2152,255,Delivered late
+2155,27,Not as described
+2160,68,Wrong item delivered
+2165,284,Changed mind
+2172,4,Better price elsewhere
+2173,45,Not as described
+2177,27,Defective product
+2182,105,Not as described
+2184,22,Defective product
+2185,345,Better price elsewhere
+2186,140,Not as described
+2189,387,Size/fit issue
+2194,94,Damaged in transit
+2194,183,Wrong item delivered
+2195,341,Not as described
+2196,73,Wrong item delivered
+2198,305,Changed mind
+2201,494,Better price elsewhere
+2214,27,Defective product
+2216,480,Changed mind
+2224,413,Better price elsewhere
+2230,72,Changed mind
+2234,332,Defective product
+2238,367,Not as described
+2243,46,Size/fit issue
+2245,186,Damaged in transit
+2251,207,Size/fit issue
+2252,241,Better price elsewhere
+2252,302,Better price elsewhere
+2258,314,Wrong item delivered
+2265,268,Size/fit issue
+2267,352,Not as described
+2273,324,Size/fit issue
+2274,305,Delivered late
+2276,365,Better price elsewhere
+2282,355,Wrong item delivered
+2294,377,Defective product
+2298,393,Defective product
+2299,286,Better price elsewhere
+2303,243,Size/fit issue
+2304,462,Not as described
+2304,296,Delivered late
+2310,261,Changed mind
+2311,403,Wrong item delivered
+2316,3,Changed mind
+2318,378,Changed mind
+2333,409,Changed mind
+2334,42,Size/fit issue
+2334,405,Not as described
+2335,171,Defective product
+2339,108,Size/fit issue
+2355,431,Not as described
+2355,51,Not as described
+2356,431,Better price elsewhere
+2358,324,Defective product
+2362,138,Size/fit issue
+2362,339,Not as described
+2363,381,Not as described
+2370,86,Wrong item delivered
+2372,116,Size/fit issue
+2372,118,Size/fit issue
+2378,112,Defective product
+2384,104,Better price elsewhere
+2389,383,Better price elsewhere
+2390,327,Changed mind
+2399,202,Size/fit issue
+2404,92,Not as described
+2406,56,Delivered late
+2407,119,Size/fit issue
+2421,426,Defective product
+2422,304,Defective product
+2423,107,Changed mind
+2423,136,Size/fit issue
+2433,269,Better price elsewhere
+2433,35,Damaged in transit
+2436,209,Damaged in transit
+2440,205,Better price elsewhere
+2446,291,Not as described
+2455,47,Size/fit issue
+2466,297,Defective product
+2466,342,Wrong item delivered
+2467,330,Better price elsewhere
+2469,379,Not as described
+2472,112,Damaged in transit
+2475,235,Wrong item delivered
+2478,299,Not as described
+2481,468,Changed mind
+2484,74,Not as described
+2486,181,Defective product
+2487,211,Changed mind
+2498,375,Better price elsewhere
+2500,140,Better price elsewhere
+2503,27,Delivered late
+2509,334,Size/fit issue
+2509,198,Defective product
+2511,390,Defective product
+2511,209,Size/fit issue
+2511,10,Better price elsewhere
+2513,432,Defective product
+2515,454,Damaged in transit
+2518,293,Size/fit issue
+2523,225,Changed mind
+2524,383,Size/fit issue
+2526,295,Changed mind
+2527,13,Not as described
+2529,231,Delivered late
+2529,433,Better price elsewhere
+2530,262,Better price elsewhere
+2532,275,Wrong item delivered
+2535,255,Changed mind
+2549,307,Better price elsewhere
+2556,267,Not as described
+2557,135,Defective product
+2561,242,Defective product
+2565,169,Defective product
+2577,223,Not as described
+2577,128,Size/fit issue
+2586,204,Defective product
+2588,117,Size/fit issue
+2589,459,Not as described
+2591,232,Delivered late
+2595,419,Changed mind
+2601,496,Changed mind
+2601,166,Delivered late
+2606,1,Better price elsewhere
+2607,217,Delivered late
+2611,3,Defective product
+2611,75,Better price elsewhere
+2612,327,Changed mind
+2613,225,Not as described
+2615,369,Changed mind
+2618,21,Defective product
+2631,27,Not as described
+2636,232,Size/fit issue
+2637,367,Not as described
+2639,156,Better price elsewhere
+2641,397,Delivered late
+2642,180,Not as described
+2644,422,Damaged in transit
+2644,172,Size/fit issue
+2645,345,Wrong item delivered
+2646,168,Defective product
+2648,460,Better price elsewhere
+2648,282,Changed mind
+2650,12,Wrong item delivered
+2651,286,Delivered late
+2653,321,Size/fit issue
+2655,467,Not as described
+2655,481,Wrong item delivered
+2655,318,Not as described
+2656,27,Delivered late
+2662,55,Better price elsewhere
+2666,340,Defective product
+2670,372,Not as described
+2671,197,Changed mind
+2678,441,Size/fit issue
+2679,206,Defective product
+2681,329,Size/fit issue
+2688,13,Changed mind
+2689,275,Not as described
+2690,8,Delivered late
+2696,247,Wrong item delivered
+2696,358,Not as described
+2696,356,Better price elsewhere
+2703,373,Delivered late
+2704,386,Wrong item delivered
+2710,77,Delivered late
+2713,301,Wrong item delivered
+2714,56,Changed mind
+2715,167,Not as described
+2717,132,Not as described
+2719,239,Size/fit issue
+2719,145,Size/fit issue
+2726,10,Better price elsewhere
+2727,257,Better price elsewhere
+2729,268,Defective product
+2734,185,Size/fit issue
+2746,264,Better price elsewhere
+2746,132,Delivered late
+2748,158,Delivered late
+2751,386,Size/fit issue
+2752,375,Wrong item delivered
+2755,130,Changed mind
+2758,466,Size/fit issue
+2766,426,Changed mind
+2766,284,Changed mind
+2768,472,Size/fit issue
+2773,132,Not as described
+2774,256,Size/fit issue
+2780,162,Changed mind
+2780,125,Defective product
+2784,345,Size/fit issue
+2788,110,Damaged in transit
+2792,435,Wrong item delivered
+2792,284,Not as described
+2796,51,Size/fit issue
+2796,284,Delivered late
+2799,126,Changed mind
+2802,428,Better price elsewhere
+2802,393,Better price elsewhere
+2803,381,Not as described
+2807,42,Size/fit issue
+2808,197,Not as described
+2809,175,Defective product
+2812,31,Size/fit issue
+2813,499,Size/fit issue
+2814,140,Defective product
+2815,374,Defective product
+2816,348,Damaged in transit
+2820,429,Size/fit issue
+2826,380,Better price elsewhere
+2829,87,Better price elsewhere
+2832,121,Not as described
+2835,22,Not as described
+2839,431,Size/fit issue
+2840,139,Defective product
+2842,386,Size/fit issue
+2843,458,Damaged in transit
+2844,393,Delivered late
+2854,232,Better price elsewhere
+2860,344,Better price elsewhere
+2861,91,Not as described
+2864,113,Size/fit issue
+2865,497,Not as described
+2868,74,Not as described
+2871,364,Wrong item delivered
+2872,161,Defective product
+2886,405,Not as described
+2889,195,Wrong item delivered
+2892,150,Damaged in transit
+2893,255,Delivered late
+2893,487,Size/fit issue
+2893,342,Size/fit issue
+2896,341,Size/fit issue
+2898,310,Better price elsewhere
+2898,253,Changed mind
+2900,461,Size/fit issue
+2903,287,Defective product
+2903,221,Better price elsewhere
+2904,200,Delivered late
+2904,470,Changed mind
+2910,298,Not as described
+2911,20,Defective product
+2913,86,Not as described
+2915,283,Delivered late
+2917,456,Delivered late
+2918,5,Wrong item delivered
+2925,210,Better price elsewhere
+2929,440,Better price elsewhere
+2933,375,Wrong item delivered
+2935,280,Wrong item delivered
+2945,174,Size/fit issue
+2948,462,Better price elsewhere
+2950,336,Changed mind
+2950,22,Not as described
+2955,327,Size/fit issue
+2963,254,Better price elsewhere
+2970,324,Changed mind
+2975,334,Size/fit issue
+2975,15,Delivered late
+2977,119,Delivered late
+2978,113,Size/fit issue
+2985,145,Delivered late
+2990,329,Changed mind
+2990,10,Delivered late
+2998,101,Wrong item delivered
+2998,388,Defective product
+3008,246,Not as described
+3008,401,Wrong item delivered
+3009,232,Wrong item delivered
+3010,373,Size/fit issue
+3013,367,Delivered late
+3013,131,Delivered late
+3015,97,Not as described
+3022,494,Not as described
+3024,296,Wrong item delivered
+3025,332,Not as described
+3038,391,Better price elsewhere
+3039,360,Defective product
+3043,73,Damaged in transit
+3046,301,Better price elsewhere
+3053,1,Defective product
+3053,153,Changed mind
+3054,82,Defective product
+3054,45,Defective product
+3055,315,Better price elsewhere
+3061,182,Size/fit issue
+3062,153,Better price elsewhere
+3062,417,Not as described
+3069,19,Better price elsewhere
+3071,225,Size/fit issue
+3077,121,Wrong item delivered
+3078,343,Size/fit issue
+3080,244,Size/fit issue
+3083,308,Size/fit issue
+3085,310,Size/fit issue
+3087,417,Delivered late
+3095,226,Defective product
+3098,213,Size/fit issue
+3100,419,Better price elsewhere
+3101,419,Not as described
+3102,223,Wrong item delivered
+3105,79,Size/fit issue
+3105,132,Better price elsewhere
+3109,327,Defective product
+3109,132,Defective product
+3112,463,Size/fit issue
+3113,146,Size/fit issue
+3114,172,Better price elsewhere
+3122,59,Damaged in transit
+3124,197,Defective product
+3125,498,Size/fit issue
+3126,131,Defective product
+3127,419,Better price elsewhere
+3131,192,Changed mind
+3135,381,Not as described
+3137,123,Size/fit issue
+3143,58,Defective product
+3150,127,Size/fit issue
+3155,49,Better price elsewhere
+3157,238,Changed mind
+3158,44,Not as described
+3160,209,Not as described
+3160,288,Better price elsewhere
+3165,130,Size/fit issue
+3166,295,Wrong item delivered
+3170,247,Not as described
+3172,431,Better price elsewhere
+3173,320,Size/fit issue
+3174,423,Damaged in transit
+3174,109,Defective product
+3175,414,Not as described
+3180,48,Delivered late
+3189,175,Changed mind
+3192,96,Delivered late
+3193,197,Delivered late
+3194,82,Not as described
+3195,164,Delivered late
+3196,396,Changed mind
+3198,410,Defective product
+3203,445,Defective product
+3203,165,Delivered late
+3205,245,Changed mind
+3209,247,Better price elsewhere
+3211,243,Delivered late
+3216,152,Delivered late
+3220,470,Not as described
+3226,482,Not as described
+3233,492,Defective product
+3239,89,Defective product
+3243,81,Better price elsewhere
+3243,285,Better price elsewhere
+3244,409,Delivered late
+3258,323,Not as described
+3258,97,Size/fit issue
+3269,315,Not as described
+3276,113,Wrong item delivered
+3276,36,Size/fit issue
+3279,237,Wrong item delivered
+3282,291,Wrong item delivered
+3283,246,Changed mind
+3287,246,Wrong item delivered
+3290,54,Size/fit issue
+3296,419,Changed mind
+3297,217,Size/fit issue
+3299,281,Changed mind
+3306,494,Wrong item delivered
+3310,341,Size/fit issue
+3313,25,Changed mind
+3316,394,Changed mind
+3316,318,Defective product
+3316,332,Not as described
+3318,311,Delivered late
+3324,86,Not as described
+3327,297,Not as described
+3327,398,Size/fit issue
+3327,171,Size/fit issue
+3333,448,Not as described
+3335,102,Better price elsewhere
+3335,340,Defective product
+3336,451,Better price elsewhere
+3337,87,Not as described
+3340,221,Not as described
+3345,330,Better price elsewhere
+3356,136,Size/fit issue
+3357,306,Size/fit issue
+3358,110,Size/fit issue
+3358,200,Delivered late
+3358,276,Not as described
+3360,493,Size/fit issue
+3371,136,Size/fit issue
+3371,167,Not as described
+3376,294,Not as described
+3382,361,Damaged in transit
+3390,123,Size/fit issue
+3391,88,Better price elsewhere
+3392,466,Wrong item delivered
+3397,422,Wrong item delivered
+3400,30,Delivered late
+3412,156,Not as described
+3418,98,Better price elsewhere
+3421,266,Better price elsewhere
+3424,137,Changed mind
+3436,12,Not as described
+3442,397,Better price elsewhere
+3447,393,Better price elsewhere
+3454,423,Wrong item delivered
+3462,105,Not as described
+3463,154,Better price elsewhere
+3466,499,Size/fit issue
+3466,87,Damaged in transit
+3476,226,Defective product
+3483,100,Better price elsewhere
+3484,489,Not as described
+3485,335,Delivered late
+3503,285,Better price elsewhere
+3507,190,Wrong item delivered
+3513,232,Better price elsewhere
+3519,113,Size/fit issue
+3520,102,Damaged in transit
+3525,285,Defective product
+3527,343,Size/fit issue
+3529,479,Size/fit issue
+3534,186,Size/fit issue
+3540,98,Better price elsewhere
+3547,443,Not as described
+3549,152,Size/fit issue
+3550,18,Changed mind
+3551,134,Size/fit issue
+3563,495,Not as described
+3566,410,Damaged in transit
+3567,360,Changed mind
+3581,88,Not as described
+3584,116,Not as described
+3593,481,Defective product
+3598,173,Defective product
+3598,385,Changed mind
+3602,238,Not as described
+3602,123,Size/fit issue
+3608,187,Better price elsewhere
+3610,339,Defective product
+3618,326,Better price elsewhere
+3620,295,Size/fit issue
+3622,347,Size/fit issue
+3623,228,Better price elsewhere
+3623,38,Size/fit issue
+3626,65,Delivered late
+3627,239,Size/fit issue
+3628,39,Size/fit issue
+3629,387,Size/fit issue
+3633,347,Changed mind
+3638,44,Wrong item delivered
+3640,86,Not as described
+3643,250,Delivered late
+3646,443,Size/fit issue
+3651,488,Not as described
+3654,249,Size/fit issue
+3659,226,Changed mind
+3661,495,Defective product
+3662,116,Damaged in transit
+3665,96,Better price elsewhere
+3666,9,Size/fit issue
+3668,76,Defective product
+3675,255,Defective product
+3676,229,Changed mind
+3689,1,Defective product
+3692,276,Better price elsewhere
+3692,416,Defective product
+3697,462,Defective product
+3713,364,Not as described
+3716,495,Delivered late
+3718,284,Changed mind
+3725,345,Not as described
+3725,74,Defective product
+3726,34,Not as described
+3728,249,Size/fit issue
+3729,8,Defective product
+3730,203,Better price elsewhere
+3736,374,Not as described
+3741,277,Size/fit issue
+3742,398,Better price elsewhere
+3744,94,Size/fit issue
+3745,8,Size/fit issue
+3747,94,Delivered late
+3747,48,Defective product
+3747,307,Better price elsewhere
+3754,128,Size/fit issue
+3758,462,Not as described
+3760,487,Better price elsewhere
+3763,411,Size/fit issue
+3771,93,Not as described
+3782,324,Better price elsewhere
+3782,87,Wrong item delivered
+3784,135,Defective product
+3785,108,Delivered late
+3795,132,Delivered late
+3796,315,Defective product
+3797,8,Size/fit issue
+3800,186,Not as described
+3804,339,Defective product
+3807,296,Delivered late
+3812,42,Size/fit issue
+3812,123,Size/fit issue
+3813,52,Not as described
+3817,252,Changed mind
+3821,422,Damaged in transit
+3825,17,Changed mind
+3826,345,Not as described
+3827,58,Changed mind
+3829,417,Changed mind
+3832,402,Defective product
+3833,353,Defective product
+3835,93,Not as described
+3837,35,Size/fit issue
+3839,333,Changed mind
+3842,272,Size/fit issue
+3852,314,Wrong item delivered
+3867,82,Defective product
+3868,81,Not as described
+3871,276,Not as described
+3875,280,Size/fit issue
+3875,137,Size/fit issue
+3879,152,Not as described
+3882,225,Damaged in transit
+3884,348,Size/fit issue
+3905,424,Defective product
+3907,222,Wrong item delivered
+3911,390,Not as described
+3918,151,Size/fit issue
+3921,437,Size/fit issue
+3927,306,Wrong item delivered
+3931,468,Size/fit issue
+3941,383,Size/fit issue
+3944,341,Size/fit issue
+3946,254,Defective product
+3950,429,Wrong item delivered
+3950,274,Better price elsewhere
+3953,35,Defective product
+3955,288,Defective product
+3959,38,Size/fit issue
+3963,5,Size/fit issue
+3963,89,Size/fit issue
+3964,408,Size/fit issue
+3966,364,Defective product
+3972,378,Defective product
+3978,162,Size/fit issue
+3980,16,Damaged in transit
+3986,262,Defective product
+3988,229,Delivered late
+3996,369,Better price elsewhere
+3997,481,Defective product
+3997,310,Defective product
+4008,171,Delivered late
+4011,403,Not as described
+4019,252,Wrong item delivered
+4020,200,Defective product
+4021,483,Defective product
+4021,216,Size/fit issue
+4035,8,Wrong item delivered
+4036,214,Size/fit issue
+4044,291,Better price elsewhere
+4046,151,Defective product
+4048,171,Changed mind
+4064,101,Delivered late
+4071,375,Better price elsewhere
+4076,76,Not as described
+4080,223,Not as described
+4081,385,Size/fit issue
+4082,448,Changed mind
+4083,295,Not as described
+4084,34,Defective product
+4087,140,Changed mind
+4091,138,Size/fit issue
+4093,206,Not as described
+4105,334,Size/fit issue
+4105,222,Not as described
+4111,135,Better price elsewhere
+4120,170,Better price elsewhere
+4123,7,Defective product
+4124,291,Better price elsewhere
+4124,295,Changed mind
+4128,195,Better price elsewhere
+4129,447,Size/fit issue
+4133,260,Damaged in transit
+4136,368,Size/fit issue
+4136,355,Defective product
+4139,441,Size/fit issue
+4146,414,Damaged in transit
+4147,45,Not as described
+4152,318,Defective product
+4154,401,Not as described
+4154,363,Damaged in transit
+4168,178,Better price elsewhere
+4171,339,Defective product
+4176,393,Wrong item delivered
+4177,494,Changed mind
+4180,408,Size/fit issue
+4182,34,Not as described
+4185,96,Defective product
+4185,94,Size/fit issue
+4188,304,Changed mind
+4190,201,Changed mind
+4190,327,Defective product
+4193,159,Size/fit issue
+4201,117,Size/fit issue
+4206,287,Not as described
+4206,442,Damaged in transit
+4207,401,Changed mind
+4211,117,Better price elsewhere
+4216,152,Delivered late
+4217,233,Better price elsewhere
+4219,480,Defective product
+4223,318,Not as described
+4223,105,Delivered late
+4223,223,Better price elsewhere
+4224,203,Changed mind
+4235,304,Damaged in transit
+4235,10,Wrong item delivered
+4240,180,Wrong item delivered
+4247,237,Size/fit issue
+4251,320,Changed mind
+4259,102,Not as described
+4261,67,Defective product
+4265,338,Delivered late
+4272,374,Better price elsewhere
+4273,324,Size/fit issue
+4275,430,Not as described
+4285,204,Size/fit issue
+4286,102,Changed mind
+4287,375,Not as described
+4288,39,Delivered late
+4291,12,Defective product
+4293,330,Better price elsewhere
+4297,456,Delivered late
+4297,236,Size/fit issue
+4297,408,Changed mind
+4300,440,Better price elsewhere
+4301,430,Defective product
+4301,141,Changed mind
+4305,312,Defective product
+4305,96,Defective product
+4309,114,Defective product
+4314,411,Size/fit issue
+4315,240,Delivered late
+4322,160,Changed mind
+4326,198,Damaged in transit
+4328,448,Not as described
+4334,88,Changed mind
+4340,220,Size/fit issue
+4341,230,Changed mind
+4345,454,Size/fit issue
+4346,74,Not as described
+4346,357,Damaged in transit
+4349,160,Not as described
+4357,51,Not as described
+4367,38,Not as described
+4371,398,Delivered late
+4371,449,Better price elsewhere
+4372,219,Defective product
+4373,98,Size/fit issue
+4374,4,Defective product
+4376,210,Delivered late
+4379,344,Not as described
+4384,38,Damaged in transit
+4388,111,Size/fit issue
+4391,423,Delivered late
+4392,447,Size/fit issue
+4393,272,Better price elsewhere
+4396,278,Wrong item delivered
+4398,254,Size/fit issue
+4403,443,Changed mind
+4416,98,Not as described
+4423,110,Better price elsewhere
+4425,471,Defective product
+4428,50,Defective product
+4433,255,Better price elsewhere
+4435,479,Size/fit issue
+4436,46,Better price elsewhere
+4448,343,Not as described
+4449,401,Defective product
+4450,68,Delivered late
+4454,91,Not as described
+4455,405,Not as described
+4457,269,Size/fit issue
+4457,318,Defective product
+4461,297,Better price elsewhere
+4469,417,Better price elsewhere
+4470,316,Changed mind
+4473,355,Delivered late
+4473,440,Better price elsewhere
+4475,292,Not as described
+4481,333,Better price elsewhere
+4488,81,Defective product
+4489,99,Size/fit issue
+4489,357,Changed mind
+4499,3,Wrong item delivered
+4500,332,Better price elsewhere
+4501,480,Better price elsewhere
+4505,131,Changed mind
+4514,121,Delivered late
+4516,375,Defective product
+4517,202,Size/fit issue
+4518,232,Delivered late
+4519,183,Not as described
+4521,72,Size/fit issue
+4522,345,Better price elsewhere
+4522,201,Size/fit issue
+4523,223,Better price elsewhere
+4528,21,Defective product
+4531,339,Better price elsewhere
+4532,43,Delivered late
+4538,171,Not as described
+4549,481,Not as described
+4549,451,Defective product
+4550,233,Defective product
+4553,222,Damaged in transit
+4556,236,Changed mind
+4557,198,Not as described
+4562,486,Not as described
+4563,220,Size/fit issue
+4564,217,Changed mind
+4567,383,Size/fit issue
+4567,277,Damaged in transit
+4568,223,Not as described
+4580,299,Changed mind
+4593,452,Size/fit issue
+4601,126,Wrong item delivered
+4603,442,Not as described
+4616,72,Size/fit issue
+4616,83,Size/fit issue
+4621,276,Better price elsewhere
+4624,26,Changed mind
+4632,117,Not as described
+4633,354,Damaged in transit
+4635,324,Size/fit issue
+4637,471,Not as described
+4645,405,Not as described
+4651,159,Size/fit issue
+4654,87,Defective product
+4654,458,Wrong item delivered
+4654,343,Not as described
+4655,128,Delivered late
+4657,402,Changed mind
+4663,186,Size/fit issue
+4671,345,Defective product
+4674,193,Not as described
+4674,78,Delivered late
+4676,315,Not as described
+4677,150,Damaged in transit
+4679,138,Delivered late
+4680,334,Size/fit issue
+4680,394,Not as described
+4680,383,Defective product
+4681,490,Size/fit issue
+4682,291,Changed mind
+4686,396,Changed mind
+4690,22,Better price elsewhere
+4693,459,Wrong item delivered
+4693,256,Size/fit issue
+4694,297,Not as described
+4697,30,Wrong item delivered
+4701,20,Delivered late
+4702,20,Not as described
+4702,89,Size/fit issue
+4707,389,Delivered late
+4708,57,Wrong item delivered
+4714,4,Better price elsewhere
+4715,297,Better price elsewhere
+4724,249,Size/fit issue
+4725,196,Defective product
+4726,447,Not as described
+4726,487,Defective product
+4729,486,Delivered late
+4731,87,Not as described
+4732,31,Better price elsewhere
+4737,386,Wrong item delivered
+4739,479,Wrong item delivered
+4741,369,Defective product
+4748,293,Not as described
+4750,297,Better price elsewhere
+4750,163,Defective product
+4751,462,Better price elsewhere
+4753,326,Not as described
+4759,244,Size/fit issue
+4762,288,Not as described
+4767,144,Size/fit issue
+4773,275,Size/fit issue
+4777,419,Not as described
+4778,223,Not as described
+4780,312,Delivered late
+4784,347,Better price elsewhere
+4787,419,Better price elsewhere
+4795,316,Damaged in transit
+4804,18,Defective product
+4814,497,Defective product
+4831,130,Size/fit issue
+4831,251,Size/fit issue
+4834,286,Not as described
+4835,256,Size/fit issue
+4849,315,Not as described
+4856,345,Not as described
+4857,366,Size/fit issue
+4863,310,Better price elsewhere
+4874,364,Not as described
+4878,307,Better price elsewhere
+4896,34,Not as described
+4901,285,Delivered late
+4903,88,Defective product
+4905,115,Damaged in transit
+4915,8,Size/fit issue
+4918,229,Wrong item delivered
+4919,7,Not as described
+4920,172,Size/fit issue
+4924,425,Wrong item delivered
+4925,384,Changed mind
+4926,36,Size/fit issue
+4932,439,Better price elsewhere
+4933,374,Defective product
+4935,9,Damaged in transit
+4940,409,Not as described
+4953,375,Better price elsewhere
+4955,65,Defective product
+4972,236,Not as described
+4978,197,Defective product
+4978,58,Delivered late
+4983,26,Size/fit issue
+4988,195,Not as described
+4993,210,Better price elsewhere
+4997,499,Changed mind
+5009,160,Delivered late
+5012,86,Not as described
+5014,111,Size/fit issue
+5020,417,Changed mind
+5023,215,Defective product
+5028,459,Delivered late
+5031,35,Size/fit issue
+5033,198,Defective product
+5034,27,Defective product
+5034,81,Not as described
+5037,417,Not as described
+5040,456,Wrong item delivered
+5042,340,Delivered late
+5042,487,Delivered late
+5045,367,Better price elsewhere
+5047,421,Wrong item delivered
+5054,498,Size/fit issue
+5056,209,Size/fit issue
+5059,318,Defective product
+5060,393,Size/fit issue
+5063,441,Size/fit issue
+5066,30,Changed mind
+5070,132,Changed mind
+5075,319,Damaged in transit
+5078,196,Better price elsewhere
+5079,371,Wrong item delivered
+5080,13,Better price elsewhere
+5090,360,Delivered late
+5090,105,Better price elsewhere
+5090,223,Wrong item delivered
+5092,321,Size/fit issue
+5094,417,Changed mind
+5099,67,Changed mind
+5107,444,Changed mind
+5112,112,Defective product
+5124,456,Wrong item delivered
+5124,52,Not as described
+5132,116,Size/fit issue
+5134,134,Damaged in transit
+5138,445,Better price elsewhere
+5138,236,Defective product
+5143,141,Better price elsewhere
+5147,139,Not as described
+5148,81,Delivered late
+5151,37,Better price elsewhere
+5154,320,Damaged in transit
+5158,305,Delivered late
+5164,308,Size/fit issue
+5167,492,Changed mind
+5172,96,Defective product
+5173,23,Damaged in transit
+5173,209,Changed mind
+5173,161,Not as described
+5174,451,Delivered late
+5175,161,Wrong item delivered
+5180,236,Size/fit issue
+5184,44,Delivered late
+5185,369,Not as described
+5192,40,Delivered late
+5197,329,Size/fit issue
+5201,481,Better price elsewhere
+5211,22,Wrong item delivered
+5214,238,Better price elsewhere
+5214,405,Wrong item delivered
+5218,200,Better price elsewhere
+5220,105,Better price elsewhere
+5223,193,Defective product
+5225,233,Better price elsewhere
+5226,297,Defective product
+5228,440,Not as described
+5228,87,Better price elsewhere
+5234,403,Better price elsewhere
+5235,345,Not as described
+5235,432,Better price elsewhere
+5235,166,Not as described
+5237,442,Damaged in transit
+5239,60,Defective product
+5241,263,Damaged in transit
+5243,109,Better price elsewhere
+5243,89,Not as described
+5245,435,Not as described
+5250,88,Not as described
+5251,360,Defective product
+5251,46,Defective product
+5253,448,Delivered late
+5255,199,Not as described
+5259,79,Size/fit issue
+5260,429,Damaged in transit
+5262,445,Delivered late
+5265,46,Wrong item delivered
+5268,393,Not as described
+5269,79,Size/fit issue
+5270,105,Delivered late
+5272,361,Not as described
+5274,224,Delivered late
+5277,467,Not as described
+5280,214,Wrong item delivered
+5287,91,Not as described
+5290,297,Wrong item delivered
+5295,386,Wrong item delivered
+5295,363,Size/fit issue
+5296,280,Damaged in transit
+5305,345,Better price elsewhere
+5305,19,Defective product
+5308,96,Better price elsewhere
+5310,417,Better price elsewhere
+5312,59,Size/fit issue
+5317,356,Not as described
+5317,313,Changed mind
+5319,494,Better price elsewhere
+5320,183,Not as described
+5320,333,Better price elsewhere
+5321,218,Size/fit issue
+5323,362,Not as described
+5324,402,Not as described
+5332,419,Better price elsewhere
+5334,233,Not as described
+5335,405,Better price elsewhere
+5339,149,Not as described
+5339,316,Changed mind
+5340,479,Changed mind
+5345,265,Size/fit issue
+5348,100,Damaged in transit
+5351,86,Better price elsewhere
+5354,307,Better price elsewhere
+5360,426,Wrong item delivered
+5371,305,Defective product
+5375,68,Size/fit issue
+5382,421,Size/fit issue
+5388,372,Changed mind
+5388,472,Defective product
+5389,483,Better price elsewhere
+5393,185,Size/fit issue
+5413,311,Size/fit issue
+5416,227,Damaged in transit
+5418,30,Size/fit issue
+5418,303,Wrong item delivered
+5421,31,Changed mind
+5422,393,Better price elsewhere
+5425,485,Size/fit issue
+5425,47,Changed mind
+5432,109,Defective product
+5432,83,Size/fit issue
+5434,71,Size/fit issue
+5435,345,Not as described
+5436,377,Defective product
+5436,193,Changed mind
+5437,328,Size/fit issue
+5437,181,Better price elsewhere
+5444,193,Delivered late
+5451,371,Defective product
+5453,419,Better price elsewhere
+5456,286,Not as described
+5457,347,Damaged in transit
+5462,412,Size/fit issue
+5463,393,Better price elsewhere
+5480,321,Size/fit issue
+5487,249,Size/fit issue
+5487,12,Changed mind
+5494,213,Size/fit issue
+5496,190,Not as described
+5497,333,Not as described
+5502,379,Better price elsewhere
+5510,277,Better price elsewhere
+5512,332,Defective product
+5513,417,Better price elsewhere
+5515,123,Wrong item delivered
+5522,389,Defective product
+5523,221,Not as described
+5526,82,Changed mind
+5528,255,Defective product
+5533,444,Size/fit issue
+5538,223,Defective product
+5538,305,Delivered late
+5539,306,Delivered late
+5542,54,Not as described
+5543,360,Not as described
+5545,500,Defective product
+5551,288,Better price elsewhere
+5555,339,Not as described
+5559,417,Wrong item delivered
+5561,407,Defective product
+5562,195,Defective product
+5569,406,Not as described
+5569,44,Defective product
+5573,48,Size/fit issue
+5577,477,Wrong item delivered
+5580,112,Defective product
+5585,308,Size/fit issue
+5587,340,Better price elsewhere
+5587,467,Not as described
+5604,355,Not as described
+5608,327,Changed mind
+5608,236,Size/fit issue
+5608,384,Wrong item delivered
+5611,413,Size/fit issue
+5611,396,Changed mind
+5613,140,Size/fit issue
+5615,156,Wrong item delivered
+5617,168,Delivered late
+5617,101,Delivered late
+5621,276,Better price elsewhere
+5622,122,Not as described
+5625,318,Wrong item delivered
+5632,174,Size/fit issue
+5633,375,Not as described
+5637,139,Wrong item delivered
+5642,421,Size/fit issue
+5646,369,Delivered late
+5648,389,Better price elsewhere
+5654,320,Size/fit issue
+5666,198,Delivered late
+5674,498,Size/fit issue
+5686,461,Changed mind
+5690,350,Defective product
+5695,417,Not as described
+5708,111,Defective product
+5708,304,Not as described
+5711,135,Better price elsewhere
+5713,432,Changed mind
+5713,420,Damaged in transit
+5717,275,Changed mind
+5721,430,Wrong item delivered
+5721,144,Size/fit issue
+5725,232,Not as described
+5728,297,Not as described
+5732,295,Size/fit issue
+5740,358,Defective product
+5754,460,Defective product
+5766,39,Defective product
+5774,371,Not as described
+5776,314,Size/fit issue
+5780,18,Better price elsewhere
+5782,284,Not as described
+5784,141,Better price elsewhere
+5797,55,Changed mind
+5797,207,Changed mind
+5800,360,Damaged in transit
+5802,190,Defective product
+5803,411,Size/fit issue
+5804,447,Size/fit issue
+5804,28,Not as described
+5806,195,Defective product
+5813,3,Damaged in transit
+5823,393,Changed mind
+5824,310,Delivered late
+5826,360,Changed mind
+5827,379,Not as described
+5830,389,Defective product
+5831,75,Better price elsewhere
+5836,331,Changed mind
+5844,34,Size/fit issue
+5848,89,Delivered late
+5849,91,Changed mind
+5849,87,Defective product
+5850,132,Delivered late
+5852,105,Better price elsewhere
+5866,392,Changed mind
+5867,404,Size/fit issue
+5868,293,Changed mind
+5885,213,Not as described
+5887,38,Changed mind
+5889,479,Changed mind
+5891,126,Not as described
+5892,310,Damaged in transit
+5895,374,Better price elsewhere
+5896,340,Wrong item delivered
+5896,454,Defective product
+5896,399,Wrong item delivered
+5897,225,Wrong item delivered
+5897,269,Size/fit issue
+5899,96,Changed mind
+5901,279,Size/fit issue
+5906,294,Size/fit issue
+5909,285,Not as described
+5914,340,Damaged in transit
+5925,184,Wrong item delivered
+5925,300,Damaged in transit
+5930,30,Size/fit issue
+5932,500,Better price elsewhere
+5932,159,Size/fit issue
+5935,432,Delivered late
+5936,217,Not as described
+5937,373,Defective product
+5937,70,Defective product
+5939,89,Not as described
+5939,417,Defective product
+5941,293,Size/fit issue
+5942,285,Not as described
+5963,403,Changed mind
+5964,4,Wrong item delivered
+5970,236,Changed mind
+5971,381,Changed mind
+5982,340,Not as described
+5986,205,Wrong item delivered
+5987,10,Better price elsewhere
+5990,429,Delivered late
+5991,20,Not as described
+5993,278,Defective product
+5996,102,Better price elsewhere
+5998,375,Defective product
+5998,50,Defective product
+6000,463,Changed mind
+6007,5,Size/fit issue
+6008,69,Better price elsewhere
+6008,202,Size/fit issue
+6011,297,Defective product
+6031,21,Defective product
+6034,384,Better price elsewhere
+6038,47,Wrong item delivered
+6040,164,Size/fit issue
+6043,402,Better price elsewhere
+6047,222,Wrong item delivered
+6047,233,Delivered late
+6047,497,Wrong item delivered
+6052,3,Better price elsewhere
+6058,210,Size/fit issue
+6060,34,Better price elsewhere
+6062,145,Better price elsewhere
+6066,149,Not as described
+6072,340,Delivered late
+6075,2,Not as described
+6077,262,Not as described
+6085,344,Defective product
+6090,348,Size/fit issue
+6092,334,Size/fit issue
+6094,257,Size/fit issue
+6099,200,Wrong item delivered
+6106,308,Size/fit issue
+6108,7,Delivered late
+6112,45,Better price elsewhere
+6129,199,Better price elsewhere
+6134,45,Better price elsewhere
+6137,284,Better price elsewhere
+6141,1,Not as described
+6142,192,Size/fit issue
+6148,110,Size/fit issue
+6150,178,Better price elsewhere
+6152,31,Wrong item delivered
+6153,396,Size/fit issue
+6155,473,Defective product
+6158,79,Damaged in transit
+6163,7,Better price elsewhere
+6163,167,Better price elsewhere
+6167,226,Not as described
+6168,481,Better price elsewhere
+6171,278,Changed mind
+6172,298,Size/fit issue
+6173,207,Size/fit issue
+6173,389,Damaged in transit
+6174,339,Better price elsewhere
+6178,12,Better price elsewhere
+6184,461,Size/fit issue
+6188,312,Damaged in transit
+6190,253,Delivered late
+6191,379,Delivered late
+6193,208,Delivered late
+6208,410,Size/fit issue
+6214,63,Better price elsewhere
+6220,299,Size/fit issue
+6222,19,Changed mind
+6225,27,Not as described
+6228,110,Size/fit issue
+6229,281,Wrong item delivered
+6230,158,Delivered late
+6239,151,Better price elsewhere
+6241,44,Defective product
+6241,154,Better price elsewhere
+6243,31,Defective product
+6244,366,Size/fit issue
+6244,88,Changed mind
+6245,34,Damaged in transit
+6246,280,Size/fit issue
+6246,420,Better price elsewhere
+6247,401,Defective product
+6251,429,Changed mind
+6253,329,Size/fit issue
+6254,454,Better price elsewhere
+6255,388,Defective product
+6263,351,Better price elsewhere
+6264,249,Better price elsewhere
+6268,190,Wrong item delivered
+6275,383,Delivered late
+6277,21,Defective product
+6286,452,Delivered late
+6289,378,Delivered late
+6290,473,Delivered late
+6292,465,Size/fit issue
+6296,369,Changed mind
+6300,296,Not as described
+6301,135,Delivered late
+6303,102,Not as described
+6305,476,Damaged in transit
+6308,488,Size/fit issue
+6313,17,Changed mind
+6320,244,Defective product
+6322,74,Not as described
+6322,222,Size/fit issue
+6323,38,Size/fit issue
+6325,86,Damaged in transit
+6329,255,Not as described
+6331,17,Size/fit issue
+6333,287,Delivered late
+6333,286,Defective product
+6337,355,Better price elsewhere
+6345,176,Size/fit issue
+6358,81,Not as described
+6362,13,Size/fit issue
+6362,249,Better price elsewhere
+6365,411,Size/fit issue
+6365,92,Size/fit issue
+6365,44,Better price elsewhere
+6374,484,Damaged in transit
+6377,249,Better price elsewhere
+6379,466,Delivered late
+6388,90,Size/fit issue
+6401,132,Not as described
+6414,110,Wrong item delivered
+6415,368,Wrong item delivered
+6416,432,Not as described
+6416,410,Defective product
+6420,231,Delivered late
+6432,248,Size/fit issue
+6434,417,Defective product
+6437,217,Size/fit issue
+6442,187,Not as described
+6451,86,Not as described
+6452,66,Not as described
+6465,92,Size/fit issue
+6472,268,Changed mind
+6473,358,Defective product
+6476,364,Damaged in transit
+6479,283,Not as described
+6484,408,Size/fit issue
+6486,238,Not as described
+6488,175,Not as described
+6491,355,Better price elsewhere
+6497,179,Better price elsewhere
+6501,12,Size/fit issue
+6504,233,Better price elsewhere
+6506,120,Size/fit issue
+6511,272,Size/fit issue
+6513,276,Delivered late
+6517,262,Defective product
+6518,414,Better price elsewhere
+6519,2,Damaged in transit
+6520,49,Not as described
+6522,172,Not as described
+6523,371,Not as described
+6525,247,Not as described
+6532,102,Changed mind
+6544,222,Wrong item delivered
+6545,50,Not as described
+6549,186,Size/fit issue
+6551,307,Not as described
+6554,443,Size/fit issue
+6556,173,Not as described
+6559,475,Changed mind
+6560,272,Damaged in transit
+6568,17,Size/fit issue
+6574,209,Size/fit issue
+6574,423,Changed mind
+6575,37,Size/fit issue
+6576,238,Defective product
+6577,154,Delivered late
+6579,307,Not as described
+6580,489,Wrong item delivered
+6596,260,Damaged in transit
+6601,236,Size/fit issue
+6609,62,Changed mind
+6610,136,Size/fit issue
+6619,62,Changed mind
+6621,66,Not as described
+6624,295,Changed mind
+6625,233,Better price elsewhere
+6626,375,Better price elsewhere
+6632,472,Size/fit issue
+6639,214,Size/fit issue
+6651,432,Not as described
+6652,452,Delivered late
+6661,436,Damaged in transit
+6665,59,Size/fit issue
+6668,71,Size/fit issue
+6671,377,Delivered late
+6672,483,Changed mind
+6678,374,Not as described
+6685,90,Delivered late
+6690,494,Size/fit issue
+6692,320,Damaged in transit
+6698,372,Size/fit issue
+6700,199,Not as described
+6703,386,Changed mind
+6703,328,Changed mind
+6705,92,Damaged in transit
+6705,18,Not as described
+6706,389,Changed mind
+6710,458,Better price elsewhere
+6718,481,Not as described
+6727,263,Size/fit issue
+6729,173,Changed mind
+6732,16,Delivered late
+6734,491,Changed mind
+6742,464,Delivered late
+6744,21,Better price elsewhere
+6751,290,Changed mind
+6755,284,Defective product
+6756,255,Size/fit issue
+6757,355,Better price elsewhere
+6760,459,Changed mind
+6762,132,Changed mind
+6765,406,Better price elsewhere
+6768,220,Changed mind
+6768,69,Damaged in transit
+6769,272,Size/fit issue
+6772,419,Wrong item delivered
+6779,216,Size/fit issue
+6779,117,Size/fit issue
+6782,263,Not as described
+6783,284,Not as described
+6783,133,Defective product
+6784,374,Delivered late
+6785,354,Size/fit issue
+6788,186,Size/fit issue
+6795,187,Not as described
+6798,159,Defective product
+6800,90,Changed mind
+6804,313,Delivered late
+6804,496,Size/fit issue
+6805,360,Changed mind
+6807,244,Changed mind
+6807,380,Damaged in transit
+6808,99,Better price elsewhere
+6809,225,Better price elsewhere
+6811,464,Not as described
+6812,65,Wrong item delivered
+6817,288,Not as described
+6824,330,Better price elsewhere
+6828,105,Not as described
+6844,216,Delivered late
+6847,412,Size/fit issue
+6847,306,Size/fit issue
+6848,181,Not as described
+6851,98,Delivered late
+6853,39,Defective product
+6855,405,Defective product
+6857,330,Not as described
+6859,360,Defective product
+6870,397,Defective product
+6873,364,Wrong item delivered
+6876,250,Damaged in transit
+6886,300,Delivered late
+6890,55,Changed mind
+6896,163,Changed mind
+6901,301,Size/fit issue
+6903,42,Size/fit issue
+6907,18,Not as described
+6907,444,Better price elsewhere
+6913,93,Changed mind
+6915,143,Defective product
+6930,159,Defective product
+6935,372,Size/fit issue
+6946,269,Wrong item delivered
+6947,166,Size/fit issue
+6950,130,Wrong item delivered
+6953,34,Defective product
+6954,493,Wrong item delivered
+6959,178,Better price elsewhere
+6960,175,Defective product
+6962,304,Better price elsewhere
+6965,230,Not as described
+6966,124,Better price elsewhere
+6970,454,Defective product
+6973,355,Better price elsewhere
+6992,328,Changed mind
+6995,313,Wrong item delivered
+6997,176,Wrong item delivered
+6998,494,Better price elsewhere
+7001,399,Damaged in transit
+7004,257,Size/fit issue
+7012,481,Defective product
+7013,161,Delivered late
+7021,231,Defective product
+7023,492,Damaged in transit
+7028,78,Changed mind
+7032,457,Defective product
+7032,12,Wrong item delivered
+7033,106,Changed mind
+7035,441,Delivered late
+7037,409,Better price elsewhere
+7038,351,Delivered late
+7040,95,Damaged in transit
+7042,324,Size/fit issue
+7046,309,Defective product
+7047,60,Size/fit issue
+7048,426,Defective product
+7052,128,Wrong item delivered
+7054,268,Wrong item delivered
+7055,289,Defective product
+7055,123,Size/fit issue
+7056,53,Not as described
+7057,91,Size/fit issue
+7061,457,Size/fit issue
+7068,242,Wrong item delivered
+7069,91,Size/fit issue
+7070,490,Size/fit issue
+7078,352,Size/fit issue
+7080,16,Not as described
+7085,105,Not as described
+7087,288,Damaged in transit
+7090,393,Better price elsewhere
+7095,494,Better price elsewhere
+7105,375,Wrong item delivered
+7110,373,Wrong item delivered
+7116,25,Changed mind
+7116,90,Size/fit issue
+7117,327,Size/fit issue
+7118,30,Changed mind
+7119,74,Better price elsewhere
+7123,204,Better price elsewhere
+7125,222,Better price elsewhere
+7126,7,Changed mind
+7130,21,Not as described
+7133,312,Delivered late
+7143,500,Defective product
+7146,96,Better price elsewhere
+7149,178,Not as described
+7149,121,Not as described
+7150,257,Delivered late
+7151,423,Changed mind
+7158,345,Changed mind
+7160,12,Defective product
+7163,394,Defective product
+7168,291,Defective product
+7187,132,Not as described
+7189,353,Changed mind
+7195,75,Changed mind
+7199,86,Wrong item delivered
+7202,112,Better price elsewhere
+7205,178,Size/fit issue
+7208,119,Changed mind
+7209,418,Better price elsewhere
+7230,144,Better price elsewhere
+7236,63,Wrong item delivered
+7244,405,Defective product
+7245,383,Delivered late
+7257,472,Size/fit issue
+7265,49,Defective product
+7268,358,Not as described
+7270,190,Better price elsewhere
+7271,10,Size/fit issue
+7273,378,Better price elsewhere
+7277,393,Defective product
+7291,440,Not as described
+7294,165,Changed mind
+7297,44,Not as described
+7301,325,Defective product
+7302,271,Damaged in transit
+7307,265,Better price elsewhere
+7308,87,Not as described
+7314,22,Delivered late
+7314,204,Changed mind
+7325,177,Damaged in transit
+7331,392,Delivered late
+7334,233,Changed mind
+7336,278,Wrong item delivered
+7339,35,Changed mind
+7341,282,Size/fit issue
+7343,88,Not as described
+7349,142,Defective product
+7349,65,Better price elsewhere
+7352,369,Defective product
+7362,223,Defective product
+7367,204,Changed mind
+7369,194,Changed mind
+7370,459,Better price elsewhere
+7377,448,Not as described
+7378,38,Defective product
+7388,232,Changed mind
+7395,379,Not as described
+7399,7,Wrong item delivered
+7404,194,Wrong item delivered
+7406,33,Better price elsewhere
+7408,128,Defective product
+7414,152,Not as described
+7415,64,Size/fit issue
+7416,495,Size/fit issue
+7417,498,Size/fit issue
+7418,127,Defective product
+7418,117,Size/fit issue
+7422,500,Changed mind
+7426,122,Better price elsewhere
+7427,123,Delivered late
+7427,105,Changed mind
+7430,419,Better price elsewhere
+7431,401,Not as described
+7435,132,Delivered late
+7435,86,Size/fit issue
+7439,112,Better price elsewhere
+7443,445,Defective product
+7444,349,Better price elsewhere
+7453,149,Size/fit issue
+7453,479,Better price elsewhere
+7454,23,Changed mind
+7454,498,Size/fit issue
+7461,307,Not as described
+7464,454,Not as described
+7471,255,Not as described
+7473,395,Not as described
+7481,61,Not as described
+7486,495,Wrong item delivered
+7489,468,Wrong item delivered
+7493,35,Better price elsewhere
+7498,334,Size/fit issue
+7499,37,Size/fit issue
+7500,184,Size/fit issue
+7505,53,Wrong item delivered
+7506,352,Size/fit issue
+7506,64,Size/fit issue
+7509,65,Wrong item delivered
+7512,286,Not as described
+7513,241,Better price elsewhere
+7517,73,Delivered late
+7520,12,Wrong item delivered
+7520,409,Damaged in transit
+7525,92,Size/fit issue
+7527,378,Defective product
+7530,442,Changed mind
+7532,425,Defective product
+7532,355,Defective product
+7532,229,Delivered late
+7542,88,Better price elsewhere
+7543,158,Not as described
+7548,158,Size/fit issue
+7551,421,Better price elsewhere
+7554,416,Better price elsewhere
+7556,378,Not as described
+7558,21,Defective product
+7560,430,Better price elsewhere
+7562,412,Wrong item delivered
+7563,324,Size/fit issue
+7564,148,Better price elsewhere
+7575,341,Size/fit issue
+7584,42,Size/fit issue
+7587,259,Delivered late
+7588,116,Changed mind
+7591,79,Size/fit issue
+7591,62,Not as described
+7592,16,Defective product
+7592,354,Size/fit issue
+7593,437,Better price elsewhere
+7594,231,Delivered late
+7596,467,Wrong item delivered
+7604,198,Delivered late
+7607,81,Better price elsewhere
+7609,353,Delivered late
+7612,227,Better price elsewhere
+7612,238,Not as described
+7613,406,Better price elsewhere
+7613,397,Better price elsewhere
+7614,207,Changed mind
+7616,86,Defective product
+7617,190,Not as described
+7618,443,Not as described
+7620,324,Size/fit issue
+7621,86,Better price elsewhere
+7622,263,Wrong item delivered
+7631,207,Size/fit issue
+7632,463,Not as described
+7637,426,Wrong item delivered
+7638,379,Defective product
+7641,205,Better price elsewhere
+7649,154,Delivered late
+7652,255,Defective product
+7665,349,Changed mind
+7667,302,Not as described
+7672,99,Better price elsewhere
+7673,1,Not as described
+7676,462,Changed mind
+7677,273,Wrong item delivered
+7680,276,Defective product
+7681,342,Size/fit issue
+7683,390,Size/fit issue
+7683,33,Better price elsewhere
+7691,367,Better price elsewhere
+7692,375,Not as described
+7693,397,Better price elsewhere
+7695,119,Size/fit issue
+7697,402,Defective product
+7700,415,Defective product
+7702,475,Damaged in transit
+7704,79,Defective product
+7705,420,Size/fit issue
+7715,5,Size/fit issue
+7716,18,Delivered late
+7716,364,Wrong item delivered
+7724,91,Changed mind
+7725,25,Better price elsewhere
+7726,318,Not as described
+7729,72,Wrong item delivered
+7733,330,Not as described
+7735,484,Size/fit issue
+7737,149,Delivered late
+7740,215,Not as described
+7741,242,Better price elsewhere
+7742,124,Wrong item delivered
+7754,25,Delivered late
+7757,204,Defective product
+7761,91,Better price elsewhere
+7766,135,Defective product
+7772,433,Delivered late
+7773,265,Delivered late
+7774,141,Not as described
+7778,190,Delivered late
+7781,315,Defective product
+7786,307,Defective product
+7786,70,Better price elsewhere
+7797,441,Size/fit issue
+7800,112,Wrong item delivered
+7801,94,Damaged in transit
+7804,459,Not as described
+7806,242,Wrong item delivered
+7807,379,Defective product
+7817,427,Defective product
+7821,276,Size/fit issue
+7826,274,Size/fit issue
+7830,45,Not as described
+7838,282,Changed mind
+7840,131,Not as described
+7848,225,Not as described
+7848,228,Damaged in transit
+7850,19,Defective product
+7852,131,Wrong item delivered
+7854,72,Size/fit issue
+7855,481,Not as described
+7856,320,Delivered late
+7873,451,Better price elsewhere
+7877,473,Delivered late
+7877,223,Not as described
+7877,190,Wrong item delivered
+7878,42,Changed mind
+7884,411,Delivered late
+7892,88,Wrong item delivered
+7895,91,Better price elsewhere
+7896,100,Delivered late
+7899,76,Not as described
+7906,136,Defective product
+7911,254,Wrong item delivered
+7913,77,Damaged in transit
+7917,366,Size/fit issue
+7918,274,Not as described
+7924,65,Changed mind
+7925,434,Changed mind
+7926,390,Defective product
+7930,168,Not as described
+7931,385,Defective product
+7937,238,Not as described
+7937,33,Not as described
+7938,101,Size/fit issue
+7946,120,Defective product
+7950,247,Size/fit issue
+7960,405,Not as described
+7961,377,Delivered late
+7961,406,Defective product
+7962,199,Defective product
+7963,105,Changed mind
+7964,372,Changed mind
+7965,285,Better price elsewhere
+7969,7,Defective product
+7970,498,Size/fit issue
+7974,59,Changed mind
+7979,387,Size/fit issue
+7981,129,Defective product
+7985,118,Changed mind
+7992,12,Not as described
+7993,409,Better price elsewhere
+7996,33,Not as described
+7997,377,Delivered late
+8003,395,Not as described
+8006,288,Damaged in transit
+8006,53,Delivered late
+8010,469,Better price elsewhere
+8013,393,Better price elsewhere
+8014,416,Better price elsewhere
+8015,242,Delivered late
+8019,235,Defective product
+8025,291,Better price elsewhere
+8026,316,Changed mind
+8026,27,Defective product
+8028,186,Size/fit issue
+8031,105,Better price elsewhere
+8035,467,Changed mind
+8039,140,Defective product
+8043,184,Delivered late
+8043,249,Delivered late
+8045,50,Better price elsewhere
+8048,88,Better price elsewhere
+8053,195,Wrong item delivered
+8064,332,Better price elsewhere
+8065,17,Size/fit issue
+8067,397,Changed mind
+8070,436,Size/fit issue
+8077,88,Not as described
+8079,50,Better price elsewhere
+8079,437,Size/fit issue
+8080,394,Changed mind
+8085,240,Changed mind
+8087,478,Delivered late
+8088,481,Changed mind
+8105,360,Better price elsewhere
+8106,38,Delivered late
+8109,481,Size/fit issue
+8110,17,Better price elsewhere
+8112,186,Not as described
+8113,355,Changed mind
+8115,119,Delivered late
+8117,448,Not as described
+8118,416,Changed mind
+8118,269,Defective product
+8128,445,Wrong item delivered
+8129,496,Changed mind
+8138,500,Size/fit issue
+8143,400,Not as described
+8148,233,Delivered late
+8154,401,Better price elsewhere
+8155,136,Size/fit issue
+8157,272,Changed mind
+8157,75,Size/fit issue
+8161,208,Wrong item delivered
+8166,18,Better price elsewhere
+8166,67,Better price elsewhere
+8167,262,Better price elsewhere
+8168,109,Changed mind
+8172,208,Size/fit issue
+8172,348,Changed mind
+8173,16,Size/fit issue
+8174,180,Changed mind
+8184,312,Changed mind
+8194,132,Not as described
+8199,40,Defective product
+8199,74,Better price elsewhere
+8201,163,Not as described
+8201,267,Better price elsewhere
+8202,93,Delivered late
+8203,321,Size/fit issue
+8212,479,Changed mind
+8216,380,Delivered late
+8217,219,Better price elsewhere
+8217,242,Wrong item delivered
+8225,355,Not as described
+8228,19,Better price elsewhere
+8229,347,Changed mind
+8230,42,Wrong item delivered
+8230,295,Wrong item delivered
+8240,24,Delivered late
+8241,248,Size/fit issue
+8243,64,Size/fit issue
+8246,341,Delivered late
+8249,486,Damaged in transit
+8249,221,Better price elsewhere
+8251,117,Better price elsewhere
+8254,341,Wrong item delivered
+8257,87,Better price elsewhere
+8259,17,Defective product
+8262,199,Changed mind
+8263,88,Wrong item delivered
+8264,44,Changed mind
+8266,272,Not as described
+8270,144,Size/fit issue
+8277,293,Size/fit issue
+8282,440,Not as described
+8283,23,Size/fit issue
+8284,480,Not as described
+8285,224,Defective product
+8291,1,Defective product
+8295,199,Not as described
+8296,292,Better price elsewhere
+8301,418,Changed mind
+8301,229,Changed mind
+8303,475,Better price elsewhere
+8304,401,Not as described
+8305,336,Size/fit issue
+8305,3,Wrong item delivered
+8308,86,Delivered late
+8311,225,Size/fit issue
+8311,101,Defective product
+8316,413,Not as described
+8322,74,Defective product
+8326,392,Damaged in transit
+8329,418,Changed mind
+8330,434,Size/fit issue
+8338,25,Defective product
+8340,284,Wrong item delivered
+8343,136,Size/fit issue
+8354,287,Not as described
+8356,254,Size/fit issue
+8356,52,Size/fit issue
+8371,176,Better price elsewhere
+8373,308,Better price elsewhere
+8373,411,Changed mind
+8373,82,Defective product
+8375,219,Damaged in transit
+8385,167,Better price elsewhere
+8390,255,Delivered late
+8397,336,Better price elsewhere
+8400,390,Size/fit issue
+8401,53,Changed mind
+8404,242,Not as described
+8405,363,Delivered late
+8406,405,Not as described
+8408,137,Wrong item delivered
+8409,7,Changed mind
+8412,291,Better price elsewhere
+8416,403,Wrong item delivered
+8416,30,Changed mind
+8422,461,Changed mind
+8426,409,Defective product
+8430,375,Defective product
+8452,435,Changed mind
+8454,1,Better price elsewhere
+8460,340,Defective product
+8470,373,Size/fit issue
+8473,287,Delivered late
+8474,383,Size/fit issue
+8475,145,Not as described
+8479,55,Changed mind
+8483,491,Changed mind
+8487,414,Damaged in transit
+8489,167,Delivered late
+8492,298,Size/fit issue
+8495,185,Size/fit issue
+8497,191,Not as described
+8498,416,Delivered late
+8499,151,Damaged in transit
+8500,304,Wrong item delivered
+8503,94,Size/fit issue
+8513,473,Size/fit issue
+8514,251,Size/fit issue
+8520,496,Better price elsewhere
+8520,112,Defective product
+8525,64,Wrong item delivered
+8543,44,Not as described
+8546,155,Delivered late
+8547,204,Defective product
+8548,108,Size/fit issue
+8556,470,Not as described
+8558,38,Defective product
+8559,122,Better price elsewhere
+8559,311,Damaged in transit
+8560,355,Delivered late
+8563,198,Better price elsewhere
+8568,331,Size/fit issue
+8574,298,Changed mind
+8576,198,Changed mind
+8581,21,Delivered late
+8583,130,Wrong item delivered
+8584,244,Not as described
+8587,440,Better price elsewhere
+8588,330,Defective product
+8590,90,Size/fit issue
+8590,293,Size/fit issue
+8593,81,Better price elsewhere
+8602,286,Delivered late
+8609,7,Size/fit issue
+8611,109,Not as described
+8613,132,Not as described
+8615,158,Size/fit issue
+8616,360,Size/fit issue
+8625,487,Better price elsewhere
+8629,187,Wrong item delivered
+8637,1,Not as described
+8642,7,Not as described
+8644,87,Delivered late
+8644,394,Better price elsewhere
+8645,156,Better price elsewhere
+8647,120,Better price elsewhere
+8648,372,Changed mind
+8654,324,Changed mind
+8659,117,Size/fit issue
+8663,449,Better price elsewhere
+8665,355,Better price elsewhere
+8665,487,Delivered late
+8668,472,Not as described
+8669,351,Not as described
+8672,135,Delivered late
+8678,13,Defective product
+8678,263,Not as described
+8682,167,Better price elsewhere
+8682,126,Better price elsewhere
+8682,17,Wrong item delivered
+8688,68,Size/fit issue
+8690,200,Not as described
+8698,178,Better price elsewhere
+8698,235,Damaged in transit
+8704,44,Not as described
+8707,79,Size/fit issue
+8708,402,Better price elsewhere
+8708,416,Not as described
+8710,263,Size/fit issue
+8714,219,Not as described
+8718,136,Size/fit issue
+8725,265,Wrong item delivered
+8739,333,Better price elsewhere
+8740,430,Better price elsewhere
+8749,406,Damaged in transit
+8751,276,Better price elsewhere
+8752,397,Wrong item delivered
+8754,98,Delivered late
+8757,166,Better price elsewhere
+8768,393,Defective product
+8770,347,Delivered late
+8778,144,Damaged in transit
+8780,414,Wrong item delivered
+8787,19,Not as described
+8796,274,Changed mind
+8797,357,Not as described
+8799,144,Size/fit issue
+8806,409,Better price elsewhere
+8807,334,Wrong item delivered
+8808,166,Defective product
+8809,210,Delivered late
+8812,31,Size/fit issue
+8822,49,Not as described
+8823,39,Wrong item delivered
+8829,460,Damaged in transit
+8831,443,Size/fit issue
+8837,282,Size/fit issue
+8845,409,Better price elsewhere
+8847,10,Defective product
+8851,264,Size/fit issue
+8862,427,Defective product
+8865,1,Better price elsewhere
+8873,55,Delivered late
+8876,114,Not as described
+8883,298,Defective product
+8883,275,Changed mind
+8884,169,Wrong item delivered
+8886,243,Defective product
+8892,491,Delivered late
+8892,231,Better price elsewhere
+8898,102,Better price elsewhere
+8899,295,Size/fit issue
+8900,418,Not as described
+8903,28,Better price elsewhere
+8907,330,Wrong item delivered
+8911,345,Wrong item delivered
+8914,102,Defective product
+8918,21,Not as described
+8918,234,Defective product
+8921,482,Not as described
+8921,226,Damaged in transit
+8925,28,Wrong item delivered
+8926,481,Not as described
+8926,366,Wrong item delivered
+8935,376,Not as described
+8938,247,Not as described
+8939,199,Not as described
+8941,242,Damaged in transit
+8945,72,Size/fit issue
+8949,322,Defective product
+8955,360,Defective product
+8956,462,Damaged in transit
+8959,333,Defective product
+8961,36,Size/fit issue
+8968,163,Defective product
+8972,63,Delivered late
+8976,367,Defective product
+8978,349,Changed mind
+8979,340,Size/fit issue
+8980,456,Not as described
+8981,417,Not as described
+8983,268,Changed mind
+8985,233,Not as described
+8986,496,Not as described
+9008,488,Size/fit issue
+9015,278,Not as described
+9019,461,Changed mind
+9021,360,Better price elsewhere
+9023,265,Delivered late
+9023,406,Size/fit issue
+9023,91,Delivered late
+9024,97,Size/fit issue
+9025,458,Defective product
+9026,335,Not as described
+9026,375,Defective product
+9028,393,Delivered late
+9030,459,Size/fit issue
+9031,142,Changed mind
+9035,52,Size/fit issue
+9038,36,Size/fit issue
+9039,426,Size/fit issue
+9040,272,Changed mind
+9044,87,Defective product
+9048,255,Defective product
+9048,100,Size/fit issue
+9049,455,Defective product
+9058,255,Better price elsewhere
+9061,431,Wrong item delivered
+9066,82,Not as described
+9068,432,Not as described
+9072,279,Delivered late
+9074,50,Defective product
+9074,144,Size/fit issue
+9075,288,Better price elsewhere
+9076,377,Defective product
+9079,108,Better price elsewhere
+9081,1,Defective product
+9081,148,Wrong item delivered
+9083,494,Better price elsewhere
+9086,227,Changed mind
+9086,123,Better price elsewhere
+9087,33,Changed mind
+9091,438,Damaged in transit
+9109,149,Damaged in transit
+9111,21,Better price elsewhere
+9112,170,Damaged in transit
+9113,101,Better price elsewhere
+9114,242,Changed mind
+9121,435,Changed mind
+9124,119,Changed mind
+9124,452,Damaged in transit
+9126,363,Damaged in transit
+9129,197,Delivered late
+9129,140,Not as described
+9141,211,Not as described
+9143,11,Better price elsewhere
+9143,303,Wrong item delivered
+9145,219,Defective product
+9149,336,Size/fit issue
+9152,368,Changed mind
+9152,242,Delivered late
+9152,310,Delivered late
+9161,263,Size/fit issue
+9163,103,Changed mind
+9164,488,Not as described
+9164,10,Delivered late
+9165,241,Better price elsewhere
+9171,239,Size/fit issue
+9172,167,Better price elsewhere
+9173,265,Wrong item delivered
+9173,445,Not as described
+9177,18,Not as described
+9178,307,Damaged in transit
+9181,465,Size/fit issue
+9186,239,Size/fit issue
+9187,405,Changed mind
+9188,282,Size/fit issue
+9197,390,Size/fit issue
+9206,54,Size/fit issue
+9207,55,Better price elsewhere
+9212,324,Changed mind
+9213,241,Better price elsewhere
+9221,485,Wrong item delivered
+9230,242,Better price elsewhere
+9231,335,Not as described
+9239,135,Defective product
+9241,345,Defective product
+9247,86,Better price elsewhere
+9251,18,Defective product
+9255,130,Not as described
+9255,332,Defective product
+9258,256,Size/fit issue
+9261,12,Delivered late
+9262,21,Changed mind
+9263,81,Not as described
+9264,497,Better price elsewhere
+9272,342,Size/fit issue
+9277,466,Damaged in transit
+9278,391,Delivered late
+9280,68,Damaged in transit
+9286,484,Size/fit issue
+9288,297,Size/fit issue
+9293,453,Not as described
+9294,47,Size/fit issue
+9299,353,Wrong item delivered
+9308,424,Not as described
+9320,457,Wrong item delivered
+9321,462,Damaged in transit
+9321,277,Size/fit issue
+9327,109,Not as described
+9329,482,Size/fit issue
+9332,241,Not as described
+9338,364,Defective product
+9340,195,Changed mind
+9353,449,Better price elsewhere
+9359,314,Delivered late
+9368,352,Size/fit issue
+9372,442,Better price elsewhere
+9378,20,Better price elsewhere
+9378,65,Not as described
+9382,413,Defective product
+9386,72,Wrong item delivered
+9388,55,Delivered late
+9400,285,Not as described
+9401,13,Defective product
+9403,380,Better price elsewhere
+9411,493,Size/fit issue
+9412,122,Better price elsewhere
+9412,411,Size/fit issue
+9420,10,Better price elsewhere
+9422,309,Not as described
+9423,18,Size/fit issue
+9425,93,Wrong item delivered
+9430,42,Not as described
+9438,162,Size/fit issue
+9438,383,Size/fit issue
+9442,121,Wrong item delivered
+9443,154,Size/fit issue
+9443,73,Delivered late
+9452,136,Changed mind
+9455,287,Changed mind
+9458,48,Changed mind
+9458,308,Damaged in transit
+9461,462,Not as described
+9462,222,Better price elsewhere
+9463,115,Defective product
+9465,105,Not as described
+9469,25,Damaged in transit
+9470,307,Not as described
+9485,76,Not as described
+9485,234,Damaged in transit
+9486,270,Size/fit issue
+9496,79,Changed mind
+9498,198,Defective product
+9503,249,Size/fit issue
+9504,321,Delivered late
+9507,47,Size/fit issue
+9510,327,Size/fit issue
+9511,466,Size/fit issue
+9519,485,Size/fit issue
+9524,317,Changed mind
+9524,276,Better price elsewhere
+9526,3,Defective product
+9530,311,Wrong item delivered
+9543,150,Changed mind
+9543,389,Changed mind
+9553,49,Better price elsewhere
+9555,344,Changed mind
+9567,407,Changed mind
+9568,417,Not as described
+9569,238,Defective product
+9569,441,Size/fit issue
+9576,277,Not as described
+9577,489,Changed mind
+9578,22,Not as described
+9579,191,Not as described
+9586,172,Better price elsewhere
+9588,237,Better price elsewhere
+9592,255,Not as described
+9594,200,Damaged in transit
+9595,478,Size/fit issue
+9595,334,Delivered late
+9596,361,Better price elsewhere
+9602,344,Defective product
+9603,365,Size/fit issue
+9604,28,Damaged in transit
+9606,426,Damaged in transit
+9610,94,Wrong item delivered
+9619,222,Size/fit issue
+9621,434,Delivered late
+9625,110,Size/fit issue
+9625,485,Size/fit issue
+9630,196,Defective product
+9632,299,Better price elsewhere
+9634,239,Size/fit issue
+9637,247,Better price elsewhere
+9637,119,Size/fit issue
+9646,394,Changed mind
+9648,404,Better price elsewhere
+9648,436,Changed mind
+9648,144,Better price elsewhere
+9650,375,Not as described
+9661,291,Not as described
+9666,442,Defective product
+9669,316,Not as described
+9675,475,Size/fit issue
+9680,367,Better price elsewhere
+9686,178,Better price elsewhere
+9687,252,Defective product
+9688,465,Delivered late
+9695,379,Delivered late
+9703,456,Better price elsewhere
+9707,360,Defective product
+9710,261,Better price elsewhere
+9725,89,Wrong item delivered
+9725,119,Changed mind
+9725,312,Defective product
+9728,72,Defective product
+9733,294,Size/fit issue
+9745,5,Better price elsewhere
+9747,32,Changed mind
+9748,246,Size/fit issue
+9750,236,Changed mind
+9751,96,Better price elsewhere
+9753,463,Defective product
+9754,90,Size/fit issue
+9755,252,Delivered late
+9757,10,Better price elsewhere
+9761,82,Delivered late
+9764,487,Defective product
+9766,181,Size/fit issue
+9767,330,Defective product
+9772,42,Size/fit issue
+9775,267,Defective product
+9783,248,Size/fit issue
+9790,312,Damaged in transit
+9791,161,Size/fit issue
+9791,457,Not as described
+9796,291,Better price elsewhere
+9801,378,Delivered late
+9802,135,Delivered late
+9803,414,Defective product
+9804,101,Defective product
+9808,57,Changed mind
+9815,339,Better price elsewhere
+9816,45,Defective product
+9821,263,Wrong item delivered
+9825,236,Size/fit issue
+9833,86,Not as described
+9843,181,Delivered late
+9845,286,Better price elsewhere
+9847,457,Delivered late
+9852,297,Better price elsewhere
+9852,227,Better price elsewhere
+9854,22,Not as described
+9854,151,Changed mind
+9857,291,Delivered late
+9863,223,Size/fit issue
+9865,26,Changed mind
+9867,239,Size/fit issue
+9875,384,Changed mind
+9877,279,Defective product
+9877,393,Wrong item delivered
+9878,96,Defective product
+9881,168,Defective product
+9883,239,Size/fit issue
+9901,55,Defective product
+9905,110,Size/fit issue
+9906,320,Wrong item delivered
+9906,166,Not as described
+9915,58,Defective product
+9917,12,Better price elsewhere
+9918,286,Defective product
+9924,31,Delivered late
+9925,267,Size/fit issue
+9925,406,Size/fit issue
+9927,372,Better price elsewhere
+9928,416,Defective product
+9933,370,Changed mind
+9940,136,Size/fit issue
+9942,355,Defective product
+9943,500,Damaged in transit
+9945,298,Size/fit issue
+9948,50,Not as described
+9949,7,Not as described
+9950,367,Defective product
+9955,293,Size/fit issue
+9956,286,Not as described
+9956,479,Wrong item delivered
+9963,424,Damaged in transit
+9967,379,Better price elsewhere
+9972,107,Better price elsewhere
+9972,368,Size/fit issue
+9973,34,Not as described
+9977,472,Changed mind
+9979,2,Delivered late
+9981,436,Size/fit issue
+9992,44,Better price elsewhere
+9996,174,Size/fit issue
+9996,489,Wrong item delivered
+9997,357,Delivered late
+10001,297,Defective product
+10007,88,Delivered late
+10012,184,Better price elsewhere
+10020,244,Size/fit issue
+10021,138,Not as described
+10026,59,Size/fit issue
+10028,189,Changed mind
+10034,64,Size/fit issue
+10036,430,Changed mind
+10036,200,Defective product
+10040,4,Defective product
+10041,301,Size/fit issue
+10041,488,Not as described
+10044,313,Defective product
+10048,7,Better price elsewhere
+10048,332,Better price elsewhere
+10052,4,Better price elsewhere
+10058,270,Defective product
+10060,206,Wrong item delivered
+10063,385,Changed mind
+10064,109,Better price elsewhere
+10067,414,Defective product
+10069,291,Better price elsewhere
+10074,251,Size/fit issue
+10075,335,Defective product
+10079,154,Size/fit issue
+10081,409,Better price elsewhere
+10086,416,Better price elsewhere
+10087,460,Delivered late
+10090,345,Changed mind
+10094,428,Size/fit issue
+10095,349,Damaged in transit
+10097,74,Defective product
+10098,42,Size/fit issue
+10101,317,Delivered late
+10103,231,Not as described
+10103,250,Delivered late
+10105,53,Not as described
+10107,232,Better price elsewhere
+10115,121,Wrong item delivered
+10132,52,Changed mind
+10133,204,Not as described
+10136,177,Size/fit issue
+10139,298,Size/fit issue
+10143,329,Wrong item delivered
+10144,344,Wrong item delivered
+10152,34,Better price elsewhere
+10154,115,Wrong item delivered
+10166,36,Size/fit issue
+10166,174,Size/fit issue
+10167,452,Changed mind
+10171,145,Not as described
+10174,346,Better price elsewhere
+10179,127,Damaged in transit
+10180,414,Better price elsewhere
+10180,457,Not as described
+10185,151,Better price elsewhere
+10188,102,Better price elsewhere
+10196,304,Defective product
+10198,173,Size/fit issue
+10199,203,Changed mind
+10202,65,Better price elsewhere
+10208,473,Damaged in transit
+10208,34,Better price elsewhere
+10216,366,Size/fit issue
+10218,330,Defective product
+10220,350,Better price elsewhere
+10228,301,Size/fit issue
+10228,244,Better price elsewhere
+10233,380,Changed mind
+10233,431,Better price elsewhere
+10239,435,Delivered late
+10241,20,Defective product
+10243,45,Wrong item delivered
+10246,195,Delivered late
+10250,118,Size/fit issue
+10251,200,Defective product
+10256,459,Better price elsewhere
+10263,445,Wrong item delivered
+10265,379,Defective product
+10267,412,Size/fit issue
+10275,476,Delivered late
+10275,409,Not as described
+10280,184,Size/fit issue
+10284,361,Wrong item delivered
+10288,45,Better price elsewhere
+10291,439,Not as described
+10294,228,Size/fit issue
+10296,166,Defective product
+10303,257,Size/fit issue
+10303,11,Changed mind
+10304,320,Size/fit issue
+10310,291,Defective product
+10311,455,Better price elsewhere
+10315,320,Better price elsewhere
+10319,229,Delivered late
+10323,50,Size/fit issue
+10328,134,Defective product
+10330,445,Better price elsewhere
+10336,181,Not as described
+10343,364,Better price elsewhere
+10348,498,Damaged in transit
+10348,86,Better price elsewhere
+10351,116,Changed mind
+10353,488,Better price elsewhere
+10355,178,Better price elsewhere
+10358,416,Better price elsewhere
+10358,1,Not as described
+10358,167,Changed mind
+10359,120,Size/fit issue
+10360,262,Defective product
+10360,379,Changed mind
+10364,199,Not as described
+10366,358,Defective product
+10366,334,Changed mind
+10367,223,Delivered late
+10374,69,Wrong item delivered
+10376,424,Wrong item delivered
+10377,302,Size/fit issue
+10385,204,Better price elsewhere
+10390,452,Not as described
+10391,21,Not as described
+10394,64,Size/fit issue
+10399,22,Defective product
+10402,103,Changed mind
+10409,332,Not as described
+10411,44,Defective product
+10412,345,Damaged in transit
+10414,241,Damaged in transit
+10417,489,Size/fit issue
+10432,112,Damaged in transit
+10434,24,Size/fit issue
+10435,33,Defective product
+10442,86,Better price elsewhere
+10452,410,Not as described
+10453,340,Better price elsewhere
+10454,405,Better price elsewhere
+10454,204,Better price elsewhere
+10454,231,Better price elsewhere
+10458,390,Size/fit issue
+10459,113,Size/fit issue
+10460,130,Size/fit issue
+10462,410,Changed mind
+10463,115,Size/fit issue
+10469,191,Better price elsewhere
+10469,128,Better price elsewhere
+10471,106,Delivered late
+10482,380,Not as described
+10487,46,Not as described
+10488,213,Not as described
+10489,124,Changed mind
+10497,466,Size/fit issue
+10503,8,Size/fit issue
+10506,53,Not as described
+10507,88,Better price elsewhere
+10507,490,Better price elsewhere
+10511,464,Wrong item delivered
+10512,418,Better price elsewhere
+10513,420,Size/fit issue
+10514,463,Changed mind
+10516,99,Size/fit issue
+10521,429,Delivered late
+10522,194,Better price elsewhere
+10526,445,Better price elsewhere
+10539,430,Changed mind
+10542,342,Size/fit issue
+10543,363,Size/fit issue
+10545,96,Not as described
+10554,97,Size/fit issue
+10555,25,Not as described
+10557,247,Size/fit issue
+10558,412,Size/fit issue
+10559,479,Size/fit issue
+10562,69,Better price elsewhere
+10568,336,Size/fit issue
+10569,34,Not as described
+10570,363,Delivered late
+10573,220,Delivered late
+10575,290,Defective product
+10577,25,Damaged in transit
+10578,41,Changed mind
+10579,7,Better price elsewhere
+10584,466,Defective product
+10600,48,Wrong item delivered
+10603,277,Size/fit issue
+10603,453,Better price elsewhere
+10605,204,Not as described
+10610,274,Wrong item delivered
+10612,59,Size/fit issue
+10614,282,Damaged in transit
+10615,52,Defective product
+10617,185,Size/fit issue
+10619,440,Not as described
+10620,124,Defective product
+10621,154,Not as described
+10624,172,Size/fit issue
+10629,65,Delivered late
+10630,393,Better price elsewhere
+10640,200,Better price elsewhere
+10640,456,Delivered late
+10643,91,Defective product
+10645,442,Better price elsewhere
+10646,178,Defective product
+10648,285,Not as described
+10649,416,Not as described
+10653,273,Size/fit issue
+10663,360,Defective product
+10667,72,Damaged in transit
+10672,432,Not as described
+10674,411,Size/fit issue
+10685,388,Size/fit issue
+10688,7,Defective product
+10690,43,Changed mind
+10693,481,Changed mind
+10694,401,Defective product
+10695,305,Not as described
+10695,445,Defective product
+10699,61,Changed mind
+10700,233,Not as described
+10700,361,Not as described
+10705,496,Better price elsewhere
+10707,88,Not as described
+10712,36,Size/fit issue
+10717,498,Size/fit issue
+10718,442,Not as described
+10727,7,Better price elsewhere
+10729,89,Changed mind
+10730,174,Size/fit issue
+10734,381,Defective product
+10738,429,Changed mind
+10741,166,Not as described
+10744,75,Wrong item delivered
+10747,176,Changed mind
+10752,454,Defective product
+10753,424,Better price elsewhere
+10758,226,Delivered late
+10760,207,Not as described
+10761,453,Delivered late
+10761,195,Changed mind
+10762,134,Changed mind
+10763,398,Better price elsewhere
+10766,436,Better price elsewhere
+10769,350,Defective product
+10769,20,Size/fit issue
+10769,376,Delivered late
+10773,222,Delivered late
+10777,387,Size/fit issue
+10780,130,Better price elsewhere
+10781,226,Delivered late
+10787,405,Defective product
+10790,88,Defective product
+10792,145,Better price elsewhere
+10797,199,Delivered late
+10797,145,Changed mind
+10800,396,Delivered late
+10800,72,Size/fit issue
+10802,436,Size/fit issue
+10806,9,Changed mind
+10811,21,Not as described
+10812,491,Not as described
+10815,355,Better price elsewhere
+10824,167,Not as described
+10827,200,Better price elsewhere
+10828,325,Delivered late
+10830,360,Better price elsewhere
+10833,106,Size/fit issue
+10840,352,Size/fit issue
+10842,195,Delivered late
+10846,311,Defective product
+10856,94,Size/fit issue
+10869,161,Size/fit issue
+10874,456,Not as described
+10875,145,Better price elsewhere
+10883,308,Changed mind
+10884,81,Delivered late
+10884,98,Not as described
+10893,287,Not as described
+10894,161,Delivered late
+10896,302,Size/fit issue
+10899,96,Changed mind
+10899,308,Changed mind
+10901,334,Size/fit issue
+10902,492,Defective product
+10903,13,Damaged in transit
+10904,44,Not as described
+10906,12,Not as described
+10906,297,Not as described
+10908,48,Defective product
+10911,202,Defective product
+10912,153,Wrong item delivered
+10922,193,Delivered late
+10923,189,Not as described
+10923,252,Better price elsewhere
+10925,144,Defective product
+10926,132,Not as described
+10927,398,Delivered late
+10930,194,Size/fit issue
+10933,107,Not as described
+10938,420,Delivered late
+10943,13,Wrong item delivered
+10947,262,Defective product
+10950,86,Not as described
+10951,332,Wrong item delivered
+10953,12,Defective product
+10963,189,Not as described
+10972,436,Size/fit issue
+10974,409,Better price elsewhere
+10977,437,Damaged in transit
+10978,142,Delivered late
+10983,393,Defective product
+10985,324,Size/fit issue
+10987,182,Damaged in transit
+10988,65,Changed mind
+10988,24,Defective product
+10989,459,Size/fit issue
+10995,248,Size/fit issue
+11004,206,Size/fit issue
+11007,474,Better price elsewhere
+11009,94,Size/fit issue
+11012,363,Changed mind
+11012,50,Better price elsewhere
+11014,110,Damaged in transit
+11015,251,Not as described
+11016,5,Better price elsewhere
+11019,106,Better price elsewhere
+11025,96,Defective product
+11026,174,Size/fit issue
+11028,53,Better price elsewhere
+11031,273,Delivered late
+11038,390,Size/fit issue
+11051,381,Not as described
+11051,81,Better price elsewhere
+11055,64,Not as described
+11057,304,Not as described
+11058,393,Changed mind
+11059,234,Better price elsewhere
+11061,465,Size/fit issue
+11062,366,Size/fit issue
+11063,155,Not as described
+11068,187,Wrong item delivered
+11069,181,Wrong item delivered
+11070,140,Not as described
+11070,237,Wrong item delivered
+11070,269,Better price elsewhere
+11075,493,Not as described
+11083,417,Better price elsewhere
+11089,183,Wrong item delivered
+11098,44,Better price elsewhere
+11101,101,Wrong item delivered
+11102,272,Size/fit issue
+11103,170,Not as described
+11104,436,Not as described
+11110,386,Changed mind
+11112,135,Damaged in transit
+11115,62,Defective product
+11117,53,Better price elsewhere
+11121,291,Not as described
+11125,76,Not as described
+11126,139,Better price elsewhere
+11128,209,Not as described
+11128,96,Wrong item delivered
+11132,140,Changed mind
+11135,344,Damaged in transit
+11135,97,Changed mind
+11143,91,Better price elsewhere
+11144,229,Better price elsewhere
+11148,367,Not as described
+11149,329,Changed mind
+11158,416,Not as described
+11159,40,Damaged in transit
+11161,460,Defective product
+11161,448,Not as described
+11163,79,Size/fit issue
+11164,364,Delivered late
+11164,158,Wrong item delivered
+11167,167,Not as described
+11169,345,Better price elsewhere
+11172,122,Wrong item delivered
+11172,255,Not as described
+11172,137,Size/fit issue
+11172,265,Better price elsewhere
+11173,352,Damaged in transit
+11175,167,Wrong item delivered
+11176,54,Size/fit issue
+11178,255,Not as described
+11187,97,Wrong item delivered
+11191,353,Defective product
+11197,291,Defective product
+11200,20,Defective product
+11202,114,Better price elsewhere
+11205,482,Wrong item delivered
+11208,253,Defective product
+11209,42,Size/fit issue
+11210,244,Changed mind
+11214,296,Delivered late
+11216,302,Size/fit issue
+11217,50,Wrong item delivered
+11218,451,Better price elsewhere
+11224,154,Damaged in transit
+11234,488,Size/fit issue
+11234,45,Wrong item delivered
+11236,8,Delivered late
+11237,288,Wrong item delivered
+11238,207,Changed mind
+11242,154,Not as described
+11246,139,Defective product
+11250,131,Delivered late
+11254,73,Better price elsewhere
+11258,363,Defective product
+11261,390,Size/fit issue
+11261,442,Not as described
+11267,190,Not as described
+11268,178,Better price elsewhere
+11268,408,Changed mind
+11270,408,Not as described
+11274,387,Changed mind
+11279,161,Better price elsewhere
+11280,285,Defective product
+11281,214,Damaged in transit
+11282,365,Changed mind
+11288,416,Changed mind
+11294,19,Better price elsewhere
+11296,291,Better price elsewhere
+11297,437,Wrong item delivered
+11304,344,Damaged in transit
+11308,256,Not as described
+11311,27,Changed mind
+11312,326,Changed mind
+11318,374,Not as described
+11319,81,Changed mind
+11323,415,Damaged in transit
+11324,272,Size/fit issue
+11330,174,Size/fit issue
+11331,65,Size/fit issue
+11336,314,Size/fit issue
+11337,378,Not as described
+11343,417,Better price elsewhere
+11347,284,Delivered late
+11355,19,Better price elsewhere
+11355,17,Not as described
+11357,167,Changed mind
+11359,286,Not as described
+11363,470,Defective product
+11366,362,Wrong item delivered
+11372,221,Size/fit issue
+11373,76,Size/fit issue
+11374,148,Better price elsewhere
+11378,119,Size/fit issue
+11378,31,Better price elsewhere
+11387,499,Wrong item delivered
+11391,102,Not as described
+11399,424,Size/fit issue
+11402,119,Not as described
+11402,319,Defective product
+11403,215,Not as described
+11404,300,Changed mind
+11404,408,Wrong item delivered
+11405,306,Size/fit issue
+11413,249,Size/fit issue
+11422,452,Size/fit issue
+11424,364,Better price elsewhere
+11425,223,Not as described
+11428,106,Defective product
+11429,112,Better price elsewhere
+11430,209,Size/fit issue
+11430,19,Wrong item delivered
+11442,255,Wrong item delivered
+11443,415,Better price elsewhere
+11445,488,Size/fit issue
+11450,80,Delivered late
+11452,411,Changed mind
+11454,405,Defective product
+11458,105,Better price elsewhere
+11459,401,Better price elsewhere
+11467,286,Delivered late
+11472,204,Better price elsewhere
+11474,249,Wrong item delivered
+11478,30,Better price elsewhere
+11487,495,Not as described
+11489,96,Not as described
+11492,152,Delivered late
+11501,332,Not as described
+11503,187,Not as described
+11508,40,Damaged in transit
+11508,383,Not as described
+11516,154,Size/fit issue
+11517,276,Better price elsewhere
+11521,93,Damaged in transit
+11525,229,Size/fit issue
+11526,57,Not as described
+11529,102,Better price elsewhere
+11530,291,Delivered late
+11530,176,Better price elsewhere
+11541,359,Better price elsewhere
+11543,360,Not as described
+11544,399,Not as described
+11546,374,Better price elsewhere
+11554,486,Wrong item delivered
+11561,265,Delivered late
+11572,327,Better price elsewhere
+11573,179,Wrong item delivered
+11575,485,Size/fit issue
+11578,290,Better price elsewhere
+11584,389,Defective product
+11589,465,Size/fit issue
+11593,160,Size/fit issue
+11593,295,Wrong item delivered
+11593,23,Not as described
+11595,497,Not as described
+11598,368,Size/fit issue
+11605,130,Size/fit issue
+11607,81,Better price elsewhere
+11608,136,Size/fit issue
+11612,49,Defective product
+11613,110,Changed mind
+11614,465,Damaged in transit
+11616,2,Size/fit issue
+11618,98,Defective product
+11619,370,Wrong item delivered
+11622,97,Changed mind
+11628,76,Better price elsewhere
+11631,45,Better price elsewhere
+11637,345,Better price elsewhere
+11637,270,Better price elsewhere
+11639,440,Better price elsewhere
+11647,74,Delivered late
+11648,399,Better price elsewhere
+11655,132,Changed mind
+11658,430,Better price elsewhere
+11661,410,Better price elsewhere
+11665,453,Better price elsewhere
+11665,219,Not as described
+11667,144,Changed mind
+11667,290,Better price elsewhere
+11668,145,Size/fit issue
+11673,241,Damaged in transit
+11678,96,Not as described
+11683,440,Not as described
+11683,465,Size/fit issue
+11687,252,Size/fit issue
+11696,213,Size/fit issue
+11697,59,Size/fit issue
+11697,20,Not as described
+11698,88,Better price elsewhere
+11708,449,Better price elsewhere
+11711,38,Wrong item delivered
+11712,439,Changed mind
+11712,87,Defective product
+11725,417,Better price elsewhere
+11726,257,Size/fit issue
+11729,499,Size/fit issue
+11730,130,Size/fit issue
+11734,335,Better price elsewhere
+11738,131,Wrong item delivered
+11749,120,Better price elsewhere
+11752,309,Size/fit issue
+11755,241,Defective product
+11755,53,Delivered late
+11766,12,Better price elsewhere
+11770,416,Delivered late
+11772,65,Delivered late
+11773,272,Changed mind
+11774,316,Wrong item delivered
+11779,488,Size/fit issue
+11779,342,Size/fit issue
+11785,91,Damaged in transit
+11788,262,Better price elsewhere
+11790,483,Delivered late
+11792,335,Better price elsewhere
+11793,16,Better price elsewhere
+11794,12,Not as described
+11799,137,Better price elsewhere
+11801,471,Not as described
+11808,366,Damaged in transit
+11811,167,Not as described
+11812,493,Delivered late
+11813,173,Changed mind
+11824,181,Changed mind
+11827,399,Damaged in transit
+11833,164,Better price elsewhere
+11839,376,Delivered late
+11841,368,Size/fit issue
+11846,363,Delivered late
+11855,162,Size/fit issue
+11859,32,Delivered late
+11866,34,Not as described
+11869,214,Size/fit issue
+11872,277,Size/fit issue
+11877,430,Not as described
+11882,329,Size/fit issue
+11887,50,Changed mind
+11888,46,Changed mind
+11892,11,Delivered late
+11895,222,Defective product
+11903,287,Defective product
+11906,62,Not as described
+11908,7,Defective product
+11908,70,Defective product
+11911,235,Better price elsewhere
+11916,240,Defective product
+11921,291,Better price elsewhere
+11923,288,Not as described
+11925,310,Delivered late
+11925,155,Not as described
+11932,324,Wrong item delivered
+11932,409,Better price elsewhere
+11937,393,Delivered late
+11938,77,Not as described
+11939,263,Not as described
+11954,308,Wrong item delivered
+11957,82,Defective product
+11958,3,Damaged in transit
+11964,347,Better price elsewhere
+11965,95,Size/fit issue
+11975,499,Size/fit issue
+11976,49,Better price elsewhere
+11977,148,Better price elsewhere
+11979,487,Size/fit issue
+11982,279,Damaged in transit
+11985,18,Not as described
+11989,432,Better price elsewhere
+11993,55,Better price elsewhere
+11995,491,Wrong item delivered
+11996,406,Size/fit issue
+11997,74,Damaged in transit

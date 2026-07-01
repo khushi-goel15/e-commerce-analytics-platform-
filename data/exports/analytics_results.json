@@ -1,0 +1,173 @@
+{
+  "eda": {
+    "overview": {
+      "revenue": 17804689.55,
+      "profit": 4268605.43,
+      "margin_pct": 23.97,
+      "orders": 12000,
+      "customers": 1282,
+      "aov": 1483.72,
+      "return_rate_pct": 14.15
+    },
+    "missing_data": {
+      "customers_with_null_signup": 309
+    },
+    "by_category": [
+      {
+        "category": "Electronics",
+        "revenue": 12176610.3,
+        "profit": 1954155.8800000001,
+        "orders": 3944,
+        "returns": 1199,
+        "margin": 16.05,
+        "return_rate": 30.4
+      },
+      {
+        "category": "Home & Kitchen",
+        "revenue": 2151338.1,
+        "profit": 750805.47,
+        "orders": 3898,
+        "returns": 488,
+        "margin": 34.9,
+        "return_rate": 12.52
+      },
+      {
+        "category": "Sports & Outdoors",
+        "revenue": 1773870.5,
+        "profit": 754920.36,
+        "orders": 4237,
+        "returns": 611,
+        "margin": 42.56,
+        "return_rate": 14.42
+      },
+      {
+        "category": "Clothing",
+        "revenue": 1527642.45,
+        "profit": 712715.3,
+        "orders": 5971,
+        "returns": 1149,
+        "margin": 46.65,
+        "return_rate": 19.24
+      },
+      {
+        "category": "Books",
+        "revenue": 175228.2,
+        "profit": 96008.42,
+        "orders": 2991,
+        "returns": 129,
+        "margin": 54.79,
+        "return_rate": 4.31
+      }
+    ],
+    "by_region": [
+      {
+        "region": "South",
+        "revenue": 4922765.3,
+        "profit": 1309771.03,
+        "orders": 3251,
+        "margin": 26.61
+      },
+      {
+        "region": "West",
+        "revenue": 4889145.4,
+        "profit": 895196.91,
+        "orders": 3507,
+        "margin": 18.31
+      },
+      {
+        "region": "East",
+        "revenue": 4086914.1,
+        "profit": 1138143.39,
+        "orders": 2594,
+        "margin": 27.85
+      },
+      {
+        "region": "North",
+        "revenue": 3905864.75,
+        "profit": 925494.1,
+        "orders": 2648,
+        "margin": 23.69
+      }
+    ],
+    "by_discount": [
+      {
+        "disc_band": "0%",
+        "transactions": 7324,
+        "revenue": 2450519.0,
+        "profit": 1047088.47,
+        "margin": 42.73
+      },
+      {
+        "disc_band": "1-10%",
+        "transactions": 8243,
+        "revenue": 3049184.05,
+        "profit": 1166965.79,
+        "margin": 38.27
+      },
+      {
+        "disc_band": "11-20%",
+        "transactions": 6644,
+        "revenue": 6365480.9,
+        "profit": 1671477.32,
+        "margin": 26.26
+      },
+      {
+        "disc_band": "21-30%",
+        "transactions": 2120,
+        "revenue": 3861629.35,
+        "profit": 518529.63,
+        "margin": 13.43
+      },
+      {
+        "disc_band": "30%+",
+        "transactions": 935,
+        "revenue": 2077876.25,
+        "profit": -135455.78,
+        "margin": -6.52
+      }
+    ]
+  },
+  "correlations": {
+    "revenue_profit": 0.604,
+    "discount_profit": -0.01,
+    "discount_revenue": 0.431
+  },
+  "segmentation": {
+    "optimal_k": 2,
+    "silhouette": 0.424,
+    "segments": [
+      {
+        "segment": 0,
+        "count": 501,
+        "avg_recency": 94.9,
+        "avg_frequency": 21.1,
+        "avg_monetary": 31998.7,
+        "total_revenue": 16031353.0,
+        "label": "High Value"
+      },
+      {
+        "segment": 1,
+        "count": 781,
+        "avg_recency": 331.2,
+        "avg_frequency": 1.8,
+        "avg_monetary": 2270.6,
+        "total_revenue": 1773336.6,
+        "label": "At Risk"
+      }
+    ]
+  },
+  "forecasting": {
+    "mae": 16719.29,
+    "method": "naive_seasonal",
+    "next_90d_revenue": 2028149.93
+  },
+  "insights": [
+    "  Pareto: Top 20% of customers generate 80.7% of revenue",
+    "  Returns: 'Electronics' has the highest return rate (26.0%)",
+    "  Regions: 'West' has lowest margin (18.3%), while 'East' has highest (27.8%)",
+    "  Discounts: Orders with \u226520% discount have 11.8% margin vs 24.0% overall (\u221212.1pp)",
+    "  Retention: 69.7% of customers are repeat purchasers",
+    "  Payments: COD orders have 27.2% return rate vs 12.6% for prepaid (2.2x higher)",
+    "  AOV: Average order value changed by -2.8% over the period"
+  ]
+}

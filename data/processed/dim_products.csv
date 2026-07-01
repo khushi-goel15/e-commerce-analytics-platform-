@@ -1,0 +1,501 @@
+product_id,category,sub_category,brand,cost_price,selling_price
+1,Electronics,Mobile Phones,ZoomTech,1591.65,2886.0
+2,Sports & Outdoors,Yoga,TrailBlazer,30.9,59.0
+3,Sports & Outdoors,Yoga,FitLife,298.94,589.0
+4,Sports & Outdoors,Fitness,OutdoorPro,54.61,98.0
+5,Clothing,Women's Wear,FashionHub,113.88,256.0
+6,Books,Educational,KnowledgeFirst,15.31,40.0
+7,Electronics,Smartwatches,SkyNet,1027.55,1804.0
+8,Clothing,Women's Wear,TrendSetter,92.89,230.0
+9,Clothing,Accessories,FashionHub,61.01,118.0
+10,Electronics,Laptops,NovaTech,433.87,772.0
+11,Clothing,Kids' Wear,UrbanFit,60.22,150.0
+12,Electronics,Smartwatches,TechPro,1257.8999999999999,1797.0
+13,Sports & Outdoors,Team Sports,SportMax,92.79,158.0
+14,Books,Educational,KnowledgeFirst,34.39,76.0
+15,Books,Comics,KnowledgeFirst,5.14,11.0
+16,Clothing,Women's Wear,UrbanFit,47.31,91.0
+17,Clothing,Men's Wear,TrendSetter,106.56,245.0
+18,Electronics,Laptops,TechPro,1081.54,1641.0
+19,Electronics,Smartwatches,Electra,2070.38,3611.0
+20,Electronics,Mobile Phones,NovaTech,2097.86,3606.0
+21,Electronics,Cameras,NovaTech,1867.06,3230.0
+22,Electronics,Laptops,Electra,2323.28,3320.0
+23,Clothing,Men's Wear,FashionHub,48.85,93.0
+24,Clothing,Men's Wear,UrbanFit,71.57,136.0
+25,Home & Kitchen,Decor,KitchenKing,263.63,415.0
+26,Clothing,Accessories,FashionHub,83.08,207.0
+27,Electronics,Laptops,NovaTech,353.71,602.0
+28,Sports & Outdoors,Fitness,ActiveGear,81.65,140.0
+29,Books,Non-Fiction,WordCraft,18.52,42.0
+30,Clothing,Footwear,ClassicWear,59.36,114.0
+31,Clothing,Kids' Wear,StyleCraft,93.34,212.0
+32,Sports & Outdoors,Cycling,FitLife,137.49,297.0
+33,Electronics,Headphones,TechPro,1724.28,2757.0
+34,Electronics,Cameras,TechPro,2132.43,3460.0
+35,Clothing,Kids' Wear,ClassicWear,63.13,132.0
+36,Clothing,Kids' Wear,UrbanFit,65.81,164.0
+37,Clothing,Kids' Wear,UrbanFit,94.29,186.0
+38,Clothing,Accessories,StyleCraft,20.8,51.0
+39,Home & Kitchen,Bedding,LivingSpace,466.38,725.0
+40,Sports & Outdoors,Team Sports,SportMax,115.16,231.0
+41,Books,Comics,PageTurner,24.88,57.0
+42,Clothing,Women's Wear,UrbanFit,49.88,110.0
+43,Sports & Outdoors,Camping,OutdoorPro,186.37,349.0
+44,Electronics,Cameras,SkyNet,626.52,1022.0
+45,Electronics,Cameras,Electra,1522.08,2763.0
+46,Home & Kitchen,Decor,ComfortPro,158.05,250.0
+47,Clothing,Women's Wear,UrbanFit,99.69,197.0
+48,Sports & Outdoors,Fitness,FitLife,199.68,407.0
+49,Electronics,Smartwatches,SkyNet,2456.85,3867.0
+50,Electronics,Headphones,Electra,2357.28,3410.0
+51,Home & Kitchen,Storage,HomeEase,245.72,479.0
+52,Clothing,Kids' Wear,StyleCraft,80.31,174.0
+53,Electronics,Cameras,NovaTech,1436.91,2578.0
+54,Clothing,Women's Wear,TrendSetter,59.12,114.0
+55,Home & Kitchen,Cookware,DreamHome,207.19,380.0
+56,Books,Non-Fiction,KnowledgeFirst,19.13,40.0
+57,Sports & Outdoors,Yoga,TrailBlazer,75.59,154.0
+58,Home & Kitchen,Bedding,HomeEase,141.44,263.0
+59,Clothing,Women's Wear,ClassicWear,100.37,206.0
+60,Home & Kitchen,Cookware,HomeEase,239.91,407.0
+61,Books,Educational,WordCraft,18.37,39.0
+62,Home & Kitchen,Decor,HomeEase,209.07,404.0
+63,Home & Kitchen,Decor,LivingSpace,308.84,532.0
+64,Clothing,Accessories,StyleCraft,130.75,293.0
+65,Sports & Outdoors,Yoga,TrailBlazer,98.81,175.0
+66,Books,Non-Fiction,LearnHub,12.44,35.0
+67,Books,Comics,PageTurner,5.51,12.0
+68,Clothing,Men's Wear,UrbanFit,16.86,37.0
+69,Sports & Outdoors,Camping,SportMax,167.09,299.0
+70,Home & Kitchen,Cookware,HomeEase,295.62,527.0
+71,Clothing,Accessories,UrbanFit,29.35,61.0
+72,Clothing,Men's Wear,FashionHub,37.89,89.0
+73,Home & Kitchen,Decor,LivingSpace,447.51,741.0
+74,Electronics,Cameras,NovaTech,1801.71,2751.0
+75,Sports & Outdoors,Fitness,FitLife,129.46,275.0
+76,Electronics,Smartwatches,TechPro,1869.13,2973.0
+77,Home & Kitchen,Furniture,ComfortPro,98.02,178.0
+78,Sports & Outdoors,Camping,ActiveGear,216.86,403.0
+79,Clothing,Footwear,TrendSetter,47.21,101.0
+80,Home & Kitchen,Storage,KitchenKing,300.27,485.0
+81,Electronics,Mobile Phones,Electra,1797.43,2627.0
+82,Sports & Outdoors,Cycling,OutdoorPro,36.32,71.0
+83,Home & Kitchen,Furniture,ComfortPro,338.79,534.0
+84,Books,Non-Fiction,WordCraft,23.46,49.0
+85,Books,Comics,PageTurner,14.39,30.0
+86,Electronics,Cameras,ZoomTech,538.11,933.0
+87,Electronics,Laptops,ZoomTech,1292.79,2110.0
+88,Electronics,Headphones,ZoomTech,2184.21,3652.0
+89,Clothing,Accessories,FashionHub,90.22,203.0
+90,Clothing,Accessories,TrendSetter,75.54,162.0
+91,Clothing,Accessories,TrendSetter,68.6,134.0
+92,Clothing,Men's Wear,TrendSetter,104.24,203.0
+93,Sports & Outdoors,Yoga,SportMax,46.06,82.0
+94,Clothing,Men's Wear,StyleCraft,13.85,33.0
+95,Books,Non-Fiction,LearnHub,29.21,62.0
+96,Electronics,Laptops,ZoomTech,2038.21,3643.0
+97,Clothing,Men's Wear,TrendSetter,16.39,31.0
+98,Sports & Outdoors,Camping,SportMax,251.8,516.0
+99,Clothing,Footwear,ClassicWear,76.66,160.0
+100,Home & Kitchen,Storage,LivingSpace,240.74,450.0
+101,Sports & Outdoors,Fitness,TrailBlazer,121.8,174.0
+102,Electronics,Mobile Phones,NovaTech,2457.71,4449.0
+103,Clothing,Accessories,StyleCraft,23.09,51.0
+104,Books,Comics,KnowledgeFirst,7.58,21.0
+105,Electronics,Mobile Phones,TechPro,1879.1,3225.0
+106,Sports & Outdoors,Camping,ActiveGear,300.07,526.0
+107,Books,Fiction,StoryHouse,10.14,22.0
+108,Books,Comics,LearnHub,19.36,48.0
+109,Electronics,Smartwatches,SkyNet,945.97,1592.0
+110,Clothing,Footwear,UrbanFit,34.8,68.0
+111,Sports & Outdoors,Team Sports,OutdoorPro,226.4,457.0
+112,Electronics,Mobile Phones,NovaTech,1718.73,2555.0
+113,Clothing,Kids' Wear,FashionHub,99.72,207.0
+114,Clothing,Footwear,FashionHub,140.3,262.0
+115,Home & Kitchen,Bedding,DreamHome,279.17,522.0
+116,Clothing,Men's Wear,TrendSetter,93.72,179.0
+117,Clothing,Footwear,ClassicWear,42.53,92.0
+118,Clothing,Accessories,ClassicWear,13.04,28.0
+119,Clothing,Women's Wear,ClassicWear,52.8,119.0
+120,Clothing,Kids' Wear,StyleCraft,112.7,274.0
+121,Home & Kitchen,Storage,KitchenKing,287.15,509.0
+122,Home & Kitchen,Decor,LivingSpace,347.09,676.0
+123,Clothing,Accessories,StyleCraft,93.44,226.0
+124,Sports & Outdoors,Camping,TrailBlazer,238.72,418.0
+125,Books,Magazines,WordCraft,24.93,65.0
+126,Sports & Outdoors,Team Sports,ActiveGear,293.49,585.0
+127,Sports & Outdoors,Yoga,ActiveGear,112.24,210.0
+128,Clothing,Accessories,StyleCraft,83.72,209.0
+129,Books,Comics,PageTurner,17.18,35.0
+130,Clothing,Footwear,ClassicWear,46.7,112.0
+131,Home & Kitchen,Bedding,HomeEase,101.94,162.0
+132,Electronics,Laptops,TechPro,2837.99,4059.0
+133,Books,Comics,WordCraft,25.64,71.0
+134,Clothing,Footwear,TrendSetter,137.89,299.0
+135,Electronics,Laptops,TechPro,562.71,888.0
+136,Clothing,Men's Wear,FashionHub,19.0,46.0
+137,Clothing,Kids' Wear,UrbanFit,9.35,20.0
+138,Clothing,Kids' Wear,StyleCraft,94.74,195.0
+139,Sports & Outdoors,Yoga,TrailBlazer,97.13,197.0
+140,Electronics,Headphones,NovaTech,504.51,879.0
+141,Sports & Outdoors,Team Sports,TrailBlazer,103.98,211.0
+142,Home & Kitchen,Cookware,KitchenKing,468.0,736.0
+143,Sports & Outdoors,Fitness,SportMax,93.57,193.0
+144,Clothing,Men's Wear,UrbanFit,90.3,201.0
+145,Home & Kitchen,Bedding,HomeEase,165.19,262.0
+146,Books,Comics,WordCraft,17.99,48.0
+147,Books,Magazines,PageTurner,25.16,64.0
+148,Home & Kitchen,Bedding,LivingSpace,271.51,478.0
+149,Sports & Outdoors,Fitness,FitLife,194.74,425.0
+150,Home & Kitchen,Bedding,LivingSpace,343.94,601.0
+151,Home & Kitchen,Bedding,HomeEase,217.31,397.0
+152,Electronics,Cameras,SkyNet,1010.92,1484.0
+153,Books,Non-Fiction,StoryHouse,14.12,30.0
+154,Clothing,Accessories,UrbanFit,43.91,91.0
+155,Books,Fiction,PageTurner,10.68,27.0
+156,Sports & Outdoors,Yoga,TrailBlazer,46.77,94.0
+157,Books,Comics,PageTurner,16.5,42.0
+158,Clothing,Accessories,FashionHub,94.3,211.0
+159,Clothing,Footwear,FashionHub,13.41,28.0
+160,Sports & Outdoors,Cycling,SportMax,85.85,184.0
+161,Sports & Outdoors,Camping,ActiveGear,32.74,63.0
+162,Clothing,Women's Wear,UrbanFit,75.39,145.0
+163,Home & Kitchen,Bedding,HomeEase,406.04,720.0
+164,Home & Kitchen,Furniture,DreamHome,58.58,107.0
+165,Clothing,Footwear,FashionHub,76.67,188.0
+166,Electronics,Smartwatches,NovaTech,1155.6999999999998,1651.0
+167,Electronics,Laptops,SkyNet,2312.14,4059.0
+168,Home & Kitchen,Bedding,ComfortPro,53.75,84.0
+169,Books,Magazines,PageTurner,12.78,28.0
+170,Home & Kitchen,Furniture,KitchenKing,225.44,390.0
+171,Home & Kitchen,Decor,KitchenKing,510.73,792.0
+172,Clothing,Kids' Wear,UrbanFit,19.82,38.0
+173,Sports & Outdoors,Team Sports,ActiveGear,28.44,59.0
+174,Clothing,Footwear,ClassicWear,121.64,264.0
+175,Sports & Outdoors,Team Sports,TrailBlazer,270.6,584.0
+176,Clothing,Women's Wear,StyleCraft,82.82,154.0
+177,Books,Comics,LearnHub,10.83,29.0
+178,Electronics,Laptops,TechPro,1521.67,2367.0
+179,Home & Kitchen,Cookware,LivingSpace,349.05,541.0
+180,Sports & Outdoors,Team Sports,TrailBlazer,192.39,405.0
+181,Sports & Outdoors,Yoga,TrailBlazer,184.2,398.0
+182,Books,Magazines,WordCraft,21.23,56.0
+183,Home & Kitchen,Cookware,DreamHome,208.21,367.0
+184,Clothing,Kids' Wear,TrendSetter,104.74,255.0
+185,Clothing,Kids' Wear,StyleCraft,64.23,119.0
+186,Clothing,Kids' Wear,ClassicWear,105.51,204.0
+187,Home & Kitchen,Decor,DreamHome,273.43,498.0
+188,Books,Educational,WordCraft,18.39,47.0
+189,Home & Kitchen,Cookware,ComfortPro,320.15,538.0
+190,Electronics,Headphones,Electra,409.75,597.0
+191,Sports & Outdoors,Camping,SportMax,192.51,417.0
+192,Books,Magazines,StoryHouse,17.4,44.0
+193,Home & Kitchen,Cookware,HomeEase,323.02,613.0
+194,Sports & Outdoors,Fitness,ActiveGear,74.21,125.0
+195,Sports & Outdoors,Team Sports,TrailBlazer,138.27,299.0
+196,Home & Kitchen,Decor,LivingSpace,95.33,173.0
+197,Sports & Outdoors,Yoga,ActiveGear,200.93,390.0
+198,Electronics,Laptops,TechPro,1166.59,2016.0
+199,Electronics,Mobile Phones,NovaTech,907.17,1538.0
+200,Electronics,Mobile Phones,SkyNet,892.24,1536.0
+201,Home & Kitchen,Furniture,HomeEase,190.32,334.0
+202,Clothing,Footwear,StyleCraft,53.44,99.0
+203,Home & Kitchen,Cookware,DreamHome,162.8,294.0
+204,Electronics,Smartwatches,NovaTech,1207.89,1928.0
+205,Sports & Outdoors,Team Sports,OutdoorPro,201.6,288.0
+206,Home & Kitchen,Storage,LivingSpace,433.76,778.0
+207,Clothing,Footwear,StyleCraft,32.6,61.0
+208,Sports & Outdoors,Camping,FitLife,73.89,164.0
+209,Clothing,Accessories,ClassicWear,103.77,224.0
+210,Clothing,Men's Wear,UrbanFit,51.16,119.0
+211,Books,Comics,LearnHub,12.95,29.0
+212,Books,Non-Fiction,StoryHouse,12.88,36.0
+213,Clothing,Men's Wear,UrbanFit,61.91,119.0
+214,Clothing,Women's Wear,TrendSetter,43.47,92.0
+215,Sports & Outdoors,Team Sports,OutdoorPro,164.68,276.0
+216,Clothing,Footwear,TrendSetter,16.0,37.0
+217,Clothing,Accessories,UrbanFit,94.13,221.0
+218,Home & Kitchen,Furniture,KitchenKing,225.37,354.0
+219,Home & Kitchen,Cookware,KitchenKing,96.63,172.0
+220,Clothing,Footwear,FashionHub,84.71,208.0
+221,Clothing,Kids' Wear,UrbanFit,18.43,38.0
+222,Home & Kitchen,Storage,DreamHome,220.59,436.0
+223,Electronics,Cameras,NovaTech,675.86,1044.0
+224,Books,Non-Fiction,PageTurner,21.84,49.0
+225,Clothing,Accessories,TrendSetter,53.82,130.0
+226,Sports & Outdoors,Cycling,OutdoorPro,46.46,99.0
+227,Home & Kitchen,Decor,HomeEase,314.77,551.0
+228,Books,Non-Fiction,KnowledgeFirst,17.2,37.0
+229,Sports & Outdoors,Camping,ActiveGear,240.8,485.0
+230,Books,Fiction,PageTurner,12.96,27.0
+231,Home & Kitchen,Bedding,DreamHome,231.21,456.0
+232,Electronics,Laptops,Electra,1841.98,2772.0
+233,Electronics,Headphones,ZoomTech,2013.5,3446.0
+234,Sports & Outdoors,Team Sports,OutdoorPro,80.18,177.0
+235,Sports & Outdoors,Camping,TrailBlazer,282.94,543.0
+236,Clothing,Women's Wear,UrbanFit,23.26,58.0
+237,Clothing,Accessories,FashionHub,40.4,89.0
+238,Electronics,Cameras,ZoomTech,1772.34,2720.0
+239,Clothing,Accessories,UrbanFit,145.09,267.0
+240,Books,Magazines,KnowledgeFirst,18.04,44.0
+241,Sports & Outdoors,Team Sports,FitLife,227.27,416.0
+242,Home & Kitchen,Bedding,ComfortPro,303.08,584.0
+243,Home & Kitchen,Cookware,LivingSpace,124.72,225.0
+244,Clothing,Kids' Wear,TrendSetter,35.3,75.0
+245,Books,Non-Fiction,StoryHouse,14.97,34.0
+246,Clothing,Accessories,StyleCraft,45.28,98.0
+247,Clothing,Men's Wear,StyleCraft,115.89,249.0
+248,Clothing,Footwear,TrendSetter,142.58,272.0
+249,Clothing,Men's Wear,StyleCraft,111.2,274.0
+250,Sports & Outdoors,Cycling,FitLife,30.77,58.0
+251,Clothing,Footwear,FashionHub,109.25,208.0
+252,Home & Kitchen,Bedding,HomeEase,410.2,752.0
+253,Home & Kitchen,Cookware,LivingSpace,73.61,129.0
+254,Electronics,Mobile Phones,Electra,1078.26,1944.0
+255,Electronics,Smartwatches,Electra,2075.99,3542.0
+256,Clothing,Kids' Wear,ClassicWear,49.5,120.0
+257,Clothing,Men's Wear,ClassicWear,100.8,207.0
+258,Books,Comics,LearnHub,11.68,24.0
+259,Books,Magazines,LearnHub,7.53,17.0
+260,Sports & Outdoors,Team Sports,FitLife,85.56,179.0
+261,Books,Educational,WordCraft,12.56,27.0
+262,Electronics,Cameras,NovaTech,1416.23,2335.0
+263,Clothing,Women's Wear,StyleCraft,62.81,157.0
+264,Books,Non-Fiction,StoryHouse,13.34,35.0
+265,Sports & Outdoors,Fitness,ActiveGear,38.82,68.0
+266,Books,Fiction,WordCraft,13.63,36.0
+267,Sports & Outdoors,Team Sports,ActiveGear,64.94,112.0
+268,Sports & Outdoors,Yoga,FitLife,196.72,426.0
+269,Clothing,Accessories,ClassicWear,116.77,228.0
+270,Clothing,Kids' Wear,ClassicWear,34.49,66.0
+271,Books,Magazines,KnowledgeFirst,37.04,79.0
+272,Clothing,Men's Wear,UrbanFit,78.68,166.0
+273,Home & Kitchen,Bedding,KitchenKing,25.26,39.0
+274,Sports & Outdoors,Cycling,ActiveGear,216.56,458.0
+275,Sports & Outdoors,Camping,OutdoorPro,167.99,341.0
+276,Electronics,Smartwatches,ZoomTech,1793.46,2811.0
+277,Clothing,Kids' Wear,TrendSetter,29.95,57.0
+278,Home & Kitchen,Furniture,LivingSpace,325.63,574.0
+279,Clothing,Footwear,StyleCraft,78.93,158.0
+280,Clothing,Kids' Wear,FashionHub,86.79,189.0
+281,Sports & Outdoors,Team Sports,TrailBlazer,64.27,136.0
+282,Clothing,Women's Wear,ClassicWear,133.58,292.0
+283,Home & Kitchen,Storage,KitchenKing,360.69,717.0
+284,Electronics,Mobile Phones,Electra,1271.67,2041.0
+285,Electronics,Laptops,TechPro,1060.64,1686.0
+286,Electronics,Headphones,NovaTech,2183.97,3508.0
+287,Electronics,Headphones,NovaTech,659.97,1162.0
+288,Electronics,Mobile Phones,ZoomTech,929.88,1584.0
+289,Books,Comics,StoryHouse,14.11,29.0
+290,Home & Kitchen,Storage,HomeEase,452.6,783.0
+291,Electronics,Smartwatches,NovaTech,942.82,1414.0
+292,Home & Kitchen,Bedding,DreamHome,35.41,60.0
+293,Clothing,Kids' Wear,StyleCraft,44.62,94.0
+294,Clothing,Accessories,TrendSetter,14.11,33.0
+295,Clothing,Women's Wear,TrendSetter,63.22,136.0
+296,Home & Kitchen,Decor,HomeEase,88.94,174.0
+297,Electronics,Mobile Phones,SkyNet,681.32,1180.0
+298,Clothing,Kids' Wear,TrendSetter,80.29,162.0
+299,Clothing,Men's Wear,ClassicWear,81.72,160.0
+300,Books,Comics,PageTurner,17.66,38.0
+301,Clothing,Men's Wear,FashionHub,111.54,236.0
+302,Clothing,Footwear,UrbanFit,69.27,172.0
+303,Books,Educational,StoryHouse,10.63,24.0
+304,Sports & Outdoors,Team Sports,FitLife,204.13,441.0
+305,Sports & Outdoors,Camping,ActiveGear,230.1,391.0
+306,Clothing,Men's Wear,UrbanFit,111.05,265.0
+307,Electronics,Laptops,Electra,1499.43,2347.0
+308,Clothing,Women's Wear,StyleCraft,79.28,195.0
+309,Books,Educational,LearnHub,24.5,35.0
+310,Sports & Outdoors,Yoga,OutdoorPro,12.97,27.0
+311,Books,Magazines,KnowledgeFirst,25.64,58.0
+312,Sports & Outdoors,Yoga,TrailBlazer,32.2,70.0
+313,Books,Fiction,StoryHouse,20.5,53.0
+314,Clothing,Footwear,FashionHub,65.8,94.0
+315,Sports & Outdoors,Fitness,SportMax,315.03,536.0
+316,Home & Kitchen,Storage,DreamHome,65.56,124.0
+317,Home & Kitchen,Bedding,LivingSpace,255.76,402.0
+318,Electronics,Laptops,ZoomTech,887.96,1586.0
+319,Home & Kitchen,Furniture,ComfortPro,412.98,705.0
+320,Clothing,Footwear,FashionHub,121.33,290.0
+321,Clothing,Accessories,UrbanFit,34.57,65.0
+322,Books,Educational,LearnHub,16.89,40.0
+323,Home & Kitchen,Storage,DreamHome,24.92,46.0
+324,Clothing,Footwear,ClassicWear,70.97,131.0
+325,Books,Fiction,StoryHouse,6.71,16.0
+326,Sports & Outdoors,Fitness,ActiveGear,66.88,141.0
+327,Clothing,Kids' Wear,TrendSetter,77.13,151.0
+328,Clothing,Women's Wear,TrendSetter,45.94,93.0
+329,Clothing,Accessories,ClassicWear,72.9,174.0
+330,Electronics,Mobile Phones,TechPro,2793.58,4902.0
+331,Books,Educational,WordCraft,10.13,26.0
+332,Electronics,Smartwatches,SkyNet,2313.51,3516.0
+333,Home & Kitchen,Furniture,LivingSpace,257.9,484.0
+334,Clothing,Women's Wear,ClassicWear,117.26,238.0
+335,Sports & Outdoors,Yoga,ActiveGear,254.68,547.0
+336,Clothing,Accessories,ClassicWear,53.89,101.0
+337,Books,Educational,PageTurner,17.04,36.0
+338,Books,Fiction,LearnHub,18.45,44.0
+339,Electronics,Smartwatches,SkyNet,1441.22,2262.0
+340,Electronics,Laptops,SkyNet,1897.92,3103.0
+341,Clothing,Kids' Wear,StyleCraft,130.26,258.0
+342,Clothing,Accessories,TrendSetter,32.62,80.0
+343,Clothing,Kids' Wear,UrbanFit,138.6,198.0
+344,Home & Kitchen,Decor,HomeEase,167.85,313.0
+345,Electronics,Laptops,SkyNet,1777.91,2603.0
+346,Books,Educational,PageTurner,18.04,39.0
+347,Sports & Outdoors,Cycling,OutdoorPro,101.15,194.0
+348,Clothing,Men's Wear,FashionHub,154.15,299.0
+349,Sports & Outdoors,Cycling,SportMax,219.54,418.0
+350,Sports & Outdoors,Fitness,TrailBlazer,117.12,229.0
+351,Books,Comics,PageTurner,12.11,26.0
+352,Clothing,Men's Wear,StyleCraft,115.2,214.0
+353,Sports & Outdoors,Cycling,ActiveGear,64.39,127.0
+354,Clothing,Men's Wear,StyleCraft,75.09,153.0
+355,Electronics,Mobile Phones,NovaTech,1718.75,2759.0
+356,Books,Fiction,LearnHub,24.85,66.0
+357,Home & Kitchen,Storage,LivingSpace,126.72,218.0
+358,Sports & Outdoors,Cycling,SportMax,27.12,48.0
+359,Books,Non-Fiction,PageTurner,14.76,30.0
+360,Electronics,Cameras,TechPro,1352.82,2372.0
+361,Home & Kitchen,Cookware,ComfortPro,207.79,402.0
+362,Books,Fiction,KnowledgeFirst,11.33,30.0
+363,Home & Kitchen,Furniture,HomeEase,173.91,310.0
+364,Electronics,Smartwatches,Electra,2723.0,3890.0
+365,Clothing,Women's Wear,UrbanFit,62.57,147.0
+366,Clothing,Footwear,StyleCraft,103.85,218.0
+367,Electronics,Smartwatches,SkyNet,2223.66,3465.0
+368,Clothing,Men's Wear,UrbanFit,34.49,68.0
+369,Electronics,Mobile Phones,SkyNet,2420.42,3524.0
+370,Books,Magazines,WordCraft,30.16,78.0
+371,Sports & Outdoors,Camping,OutdoorPro,100.55,203.0
+372,Clothing,Men's Wear,FashionHub,110.8,203.0
+373,Clothing,Men's Wear,ClassicWear,38.32,92.0
+374,Electronics,Mobile Phones,SkyNet,1091.42,1779.0
+375,Electronics,Mobile Phones,NovaTech,1013.29,1644.0
+376,Books,Educational,StoryHouse,12.52,29.0
+377,Electronics,Cameras,NovaTech,594.31,957.0
+378,Sports & Outdoors,Camping,SportMax,189.76,327.0
+379,Electronics,Mobile Phones,SkyNet,1823.79,2965.0
+380,Sports & Outdoors,Fitness,SportMax,223.2,381.0
+381,Electronics,Headphones,Electra,416.92,662.0
+382,Books,Comics,LearnHub,5.71,16.0
+383,Clothing,Women's Wear,UrbanFit,40.24,76.0
+384,Sports & Outdoors,Team Sports,FitLife,30.31,53.0
+385,Sports & Outdoors,Fitness,OutdoorPro,228.99,390.0
+386,Sports & Outdoors,Yoga,TrailBlazer,138.79,237.0
+387,Clothing,Kids' Wear,ClassicWear,22.69,47.0
+388,Sports & Outdoors,Yoga,FitLife,83.1,182.0
+389,Home & Kitchen,Furniture,ComfortPro,404.6,714.0
+390,Clothing,Accessories,ClassicWear,52.28,122.0
+391,Sports & Outdoors,Team Sports,TrailBlazer,63.46,141.0
+392,Clothing,Accessories,UrbanFit,134.39999999999998,192.0
+393,Electronics,Headphones,SkyNet,461.42,759.0
+394,Home & Kitchen,Bedding,DreamHome,216.32,391.0
+395,Clothing,Accessories,StyleCraft,121.99,224.0
+396,Sports & Outdoors,Cycling,SportMax,151.93,335.0
+397,Home & Kitchen,Bedding,DreamHome,81.43,129.0
+398,Home & Kitchen,Decor,ComfortPro,168.14,327.0
+399,Home & Kitchen,Storage,HomeEase,121.13,205.0
+400,Home & Kitchen,Decor,ComfortPro,213.38,420.0
+401,Electronics,Headphones,TechPro,2221.6,3453.0
+402,Sports & Outdoors,Yoga,SportMax,219.71,418.0
+403,Sports & Outdoors,Yoga,ActiveGear,58.61,119.0
+404,Home & Kitchen,Decor,HomeEase,345.13,551.0
+405,Electronics,Mobile Phones,SkyNet,2527.65,4500.0
+406,Clothing,Kids' Wear,FashionHub,13.74,29.0
+407,Sports & Outdoors,Cycling,ActiveGear,125.32,210.0
+408,Clothing,Footwear,ClassicWear,52.04,110.0
+409,Electronics,Smartwatches,TechPro,1525.63,2362.0
+410,Sports & Outdoors,Camping,ActiveGear,103.94,202.0
+411,Clothing,Women's Wear,TrendSetter,66.65,125.0
+412,Clothing,Women's Wear,FashionHub,12.35,23.0
+413,Clothing,Kids' Wear,UrbanFit,40.02,90.0
+414,Sports & Outdoors,Team Sports,SportMax,73.2,161.0
+415,Home & Kitchen,Bedding,HomeEase,146.48,253.0
+416,Electronics,Cameras,TechPro,1353.22,2239.0
+417,Electronics,Smartwatches,ZoomTech,2318.7,3320.0
+418,Sports & Outdoors,Yoga,TrailBlazer,207.78,379.0
+419,Electronics,Smartwatches,ZoomTech,1746.08,2522.0
+420,Clothing,Women's Wear,ClassicWear,103.64,216.0
+421,Clothing,Accessories,StyleCraft,122.31,242.0
+422,Sports & Outdoors,Camping,SportMax,17.73,37.0
+423,Home & Kitchen,Furniture,DreamHome,48.86,80.0
+424,Sports & Outdoors,Camping,TrailBlazer,221.91,414.0
+425,Home & Kitchen,Storage,ComfortPro,50.34,80.0
+426,Sports & Outdoors,Camping,OutdoorPro,309.8,587.0
+427,Home & Kitchen,Furniture,ComfortPro,184.61,345.0
+428,Home & Kitchen,Furniture,LivingSpace,22.15,41.0
+429,Sports & Outdoors,Fitness,SportMax,179.15,338.0
+430,Electronics,Laptops,TechPro,2155.59,3537.0
+431,Electronics,Smartwatches,TechPro,1888.9,3030.0
+432,Electronics,Headphones,NovaTech,703.48,1192.0
+433,Books,Fiction,PageTurner,8.41,20.0
+434,Books,Magazines,PageTurner,12.28,25.0
+435,Sports & Outdoors,Fitness,SportMax,115.91,254.0
+436,Clothing,Accessories,FashionHub,73.7,153.0
+437,Clothing,Men's Wear,ClassicWear,57.06,111.0
+438,Clothing,Men's Wear,ClassicWear,161.48,298.0
+439,Home & Kitchen,Bedding,LivingSpace,183.71,291.0
+440,Electronics,Laptops,NovaTech,1886.37,3052.0
+441,Clothing,Footwear,FashionHub,83.34,158.0
+442,Electronics,Mobile Phones,TechPro,1573.73,2597.0
+443,Clothing,Kids' Wear,FashionHub,74.0,152.0
+444,Home & Kitchen,Bedding,KitchenKing,182.92,288.0
+445,Electronics,Headphones,ZoomTech,909.44,1410.0
+446,Books,Educational,KnowledgeFirst,24.23,55.0
+447,Clothing,Men's Wear,ClassicWear,43.24,105.0
+448,Electronics,Laptops,Electra,1643.86,2693.0
+449,Home & Kitchen,Storage,LivingSpace,298.9,427.0
+450,Books,Magazines,WordCraft,7.15,19.0
+451,Sports & Outdoors,Fitness,SportMax,104.16,195.0
+452,Sports & Outdoors,Yoga,ActiveGear,71.83,144.0
+453,Sports & Outdoors,Camping,TrailBlazer,233.78,392.0
+454,Sports & Outdoors,Yoga,OutdoorPro,124.8,243.0
+455,Home & Kitchen,Furniture,KitchenKing,90.67,180.0
+456,Electronics,Cameras,ZoomTech,2059.17,3266.0
+457,Home & Kitchen,Cookware,KitchenKing,47.87,94.0
+458,Sports & Outdoors,Camping,FitLife,123.28,211.0
+459,Clothing,Men's Wear,TrendSetter,115.93,265.0
+460,Home & Kitchen,Furniture,KitchenKing,27.16,45.0
+461,Clothing,Kids' Wear,TrendSetter,74.63,162.0
+462,Electronics,Cameras,Electra,1375.33,2361.0
+463,Home & Kitchen,Decor,LivingSpace,119.44,185.0
+464,Books,Fiction,StoryHouse,14.51,33.0
+465,Clothing,Kids' Wear,ClassicWear,66.78,143.0
+466,Home & Kitchen,Furniture,ComfortPro,193.99,311.0
+467,Home & Kitchen,Storage,DreamHome,82.57,142.0
+468,Clothing,Women's Wear,UrbanFit,54.69,128.0
+469,Books,Educational,PageTurner,5.49,12.0
+470,Sports & Outdoors,Cycling,OutdoorPro,32.66,59.0
+471,Sports & Outdoors,Cycling,OutdoorPro,235.69,460.0
+472,Clothing,Men's Wear,UrbanFit,67.82,149.0
+473,Sports & Outdoors,Fitness,ActiveGear,96.81,195.0
+474,Home & Kitchen,Furniture,DreamHome,109.78,183.0
+475,Clothing,Men's Wear,StyleCraft,59.1,126.0
+476,Books,Non-Fiction,PageTurner,21.75,57.0
+477,Books,Fiction,LearnHub,13.57,28.0
+478,Sports & Outdoors,Team Sports,ActiveGear,107.96,223.0
+479,Clothing,Accessories,ClassicWear,153.29999999999998,219.0
+480,Sports & Outdoors,Fitness,TrailBlazer,62.27,135.0
+481,Electronics,Laptops,ZoomTech,1327.8999999999999,1897.0
+482,Clothing,Footwear,TrendSetter,67.32,133.0
+483,Home & Kitchen,Bedding,HomeEase,357.5,664.0
+484,Clothing,Accessories,TrendSetter,31.31,75.0
+485,Clothing,Men's Wear,FashionHub,115.46,248.0
+486,Home & Kitchen,Furniture,DreamHome,54.34,92.0
+487,Home & Kitchen,Cookware,HomeEase,340.51,524.0
+488,Clothing,Women's Wear,StyleCraft,117.94,256.0
+489,Home & Kitchen,Furniture,ComfortPro,162.11,301.0
+490,Clothing,Men's Wear,TrendSetter,110.13,242.0
+491,Sports & Outdoors,Cycling,OutdoorPro,204.62,405.0
+492,Books,Educational,PageTurner,15.89,39.0
+493,Home & Kitchen,Bedding,KitchenKing,305.98,512.0
+494,Electronics,Mobile Phones,TechPro,1721.75,2869.0
+495,Sports & Outdoors,Fitness,OutdoorPro,254.31,558.0
+496,Sports & Outdoors,Cycling,SportMax,207.6,394.0
+497,Sports & Outdoors,Fitness,SportMax,49.31,94.0
+498,Clothing,Women's Wear,FashionHub,105.7,263.0
+499,Clothing,Kids' Wear,TrendSetter,43.43,93.0
+500,Home & Kitchen,Bedding,DreamHome,56.76,109.0
